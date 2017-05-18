@@ -1,0 +1,47 @@
+war/WEB-INF/classes
+*.class
+.DS_Store
+.settings/org.eclipse.core.resources.prefs
+target/
+war/
+*.log
+src/main/resources/git.properties
+GPATH
+GRTAGS
+GTAGS
+
+# eclipse settings
+.settings/
+.classpath
+.project
+
+# maven stuff
+*.class
+bin/
+tmp/
+
+# usual suspects
+#src/main/resources/logback.xml
+#*/src/main/resources/logback.xml
+# logback.xml
+# src/main/resources/*.conf
+#*/src/main/resources/*.conf
+#src/main/resources/*.json
+#*/src/main/resources/*.json
+
+# java stuff
+git.properties
+
+# maven release plugin
+release.properties*
+pom.xml.releaseBackup
+dependency-reduced-pom.xml
+
+#idea
+.idea
+*.iml
+
+# really, really misc
+.cp.txt
+vertx_classpath.txt
+.java-version
