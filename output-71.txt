@@ -1,0 +1,399 @@
+17:57:42.457 [main] INFO  org.acme.App - Publishing message
+17:57:45.601 [main] INFO  org.acme.App - Publishing message
+17:57:48.601 [main] INFO  org.acme.App - Publishing message
+17:57:51.602 [main] INFO  org.acme.App - Publishing message
+17:57:54.603 [main] INFO  org.acme.App - Publishing message
+17:57:56.942 [pool-2-thread-14] WARN  org.acme.App - Publish failed after 14352 ms. DEADLINE_EXCEEDED
+17:57:57.604 [main] INFO  org.acme.App - Publishing message
+17:57:59.913 [pool-2-thread-18] WARN  org.acme.App - Publish failed after 14312 ms. DEADLINE_EXCEEDED
+17:58:00.604 [main] INFO  org.acme.App - Publishing message
+17:58:03.060 [pool-2-thread-11] WARN  org.acme.App - Publish failed after 14458 ms. DEADLINE_EXCEEDED
+17:58:03.605 [main] INFO  org.acme.App - Publishing message
+17:58:05.633 [pool-2-thread-49] WARN  org.acme.App - Publish failed after 11029 ms. UNAUTHENTICATED
+17:58:05.866 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 14263 ms. DEADLINE_EXCEEDED
+17:58:06.605 [main] INFO  org.acme.App - Publishing message
+17:58:08.631 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 5025 ms. UNAUTHENTICATED
+17:58:09.606 [main] INFO  org.acme.App - Publishing message
+17:58:11.631 [pool-2-thread-16] WARN  org.acme.App - Publish failed after 14027 ms. UNAUTHENTICATED
+17:58:11.632 [pool-2-thread-10] WARN  org.acme.App - Publish failed after 11026 ms. UNAUTHENTICATED
+17:58:11.632 [pool-2-thread-38] WARN  org.acme.App - Publish failed after 5025 ms. UNAUTHENTICATED
+17:58:11.632 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 2025 ms. UNAUTHENTICATED
+17:58:12.606 [main] INFO  org.acme.App - Publishing message
+17:58:14.631 [pool-2-thread-12] WARN  org.acme.App - Publish failed after 2024 ms. UNAUTHENTICATED
+17:58:15.607 [main] INFO  org.acme.App - Publishing message
+17:58:17.630 [pool-2-thread-7] WARN  org.acme.App - Publish failed after 2023 ms. UNAUTHENTICATED
+17:58:18.607 [main] INFO  org.acme.App - Publishing message
+17:58:20.631 [pool-2-thread-60] WARN  org.acme.App - Publish failed after 2023 ms. UNAUTHENTICATED
+17:58:21.608 [main] INFO  org.acme.App - Publishing message
+17:58:23.631 [pool-2-thread-3] WARN  org.acme.App - Publish failed after 2022 ms. UNAUTHENTICATED
+17:58:24.608 [main] INFO  org.acme.App - Publishing message
+17:58:26.631 [pool-2-thread-9] WARN  org.acme.App - Publish failed after 2022 ms. UNAUTHENTICATED
+17:58:27.609 [main] INFO  org.acme.App - Publishing message
+17:58:29.631 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 2021 ms. UNAUTHENTICATED
+17:58:30.609 [main] INFO  org.acme.App - Publishing message
+17:58:32.631 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 2020 ms. UNAUTHENTICATED
+17:58:33.610 [main] INFO  org.acme.App - Publishing message
+17:58:36.611 [main] INFO  org.acme.App - Publishing message
+17:58:39.611 [main] INFO  org.acme.App - Publishing message
+17:58:42.612 [main] INFO  org.acme.App - Publishing message
+17:58:45.612 [main] INFO  org.acme.App - Publishing message
+17:58:48.028 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 14417 ms. DEADLINE_EXCEEDED
+17:58:48.613 [main] INFO  org.acme.App - Publishing message
+17:58:50.912 [pool-2-thread-23] WARN  org.acme.App - Publish failed after 14300 ms. DEADLINE_EXCEEDED
+17:58:51.613 [main] INFO  org.acme.App - Publishing message
+17:58:53.919 [pool-2-thread-20] WARN  org.acme.App - Publish failed after 14307 ms. DEADLINE_EXCEEDED
+17:58:54.614 [main] INFO  org.acme.App - Publishing message
+17:58:57.026 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 14413 ms. DEADLINE_EXCEEDED
+17:58:57.614 [main] INFO  org.acme.App - Publishing message
+17:58:59.888 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 14275 ms. DEADLINE_EXCEEDED
+17:59:00.615 [main] INFO  org.acme.App - Publishing message
+17:59:02.961 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14347 ms. DEADLINE_EXCEEDED
+17:59:03.615 [main] INFO  org.acme.App - Publishing message
+17:59:06.616 [main] INFO  org.acme.App - Publishing message
+17:59:09.616 [main] INFO  org.acme.App - Publishing message
+17:59:12.617 [main] INFO  org.acme.App - Publishing message
+17:59:15.093 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 11477 ms. DEADLINE_EXCEEDED
+17:59:15.093 [pool-2-thread-48] WARN  org.acme.App - Publish failed after 14478 ms. DEADLINE_EXCEEDED
+17:59:15.093 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 17479 ms. DEADLINE_EXCEEDED
+17:59:15.093 [pool-2-thread-58] WARN  org.acme.App - Publish failed after 23479 ms. DEADLINE_EXCEEDED
+17:59:15.094 [pool-2-thread-34] WARN  org.acme.App - Publish failed after 20479 ms. DEADLINE_EXCEEDED
+17:59:15.128 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 8512 ms. UNAUTHENTICATED
+17:59:15.128 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 5512 ms. UNAUTHENTICATED
+17:59:15.129 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 2511 ms. UNAUTHENTICATED
+17:59:15.617 [main] INFO  org.acme.App - Publishing message
+17:59:15.637 [pool-2-thread-20] WARN  org.acme.App - Publish failed after 20 ms. UNAUTHENTICATED
+17:59:18.618 [main] INFO  org.acme.App - Publishing message
+17:59:18.640 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 21 ms. UNAUTHENTICATED
+17:59:21.618 [main] INFO  org.acme.App - Publishing message
+17:59:21.640 [pool-2-thread-29] WARN  org.acme.App - Publish failed after 21 ms. UNAUTHENTICATED
+17:59:24.619 [main] INFO  org.acme.App - Publishing message
+17:59:24.641 [pool-2-thread-48] WARN  org.acme.App - Publish failed after 21 ms. UNAUTHENTICATED
+17:59:27.619 [main] INFO  org.acme.App - Publishing message
+17:59:30.620 [main] INFO  org.acme.App - Publishing message
+17:59:33.620 [main] INFO  org.acme.App - Publishing message
+17:59:36.621 [main] INFO  org.acme.App - Publishing message
+17:59:39.621 [main] INFO  org.acme.App - Publishing message
+17:59:40.807 [pool-2-thread-53] WARN  org.acme.App - Publish failed after 10186 ms. UNAUTHENTICATED
+17:59:40.807 [pool-2-thread-53] WARN  org.acme.App - Publish failed after 13187 ms. UNAUTHENTICATED
+17:59:40.807 [pool-2-thread-28] WARN  org.acme.App - Publish failed after 4185 ms. UNAUTHENTICATED
+17:59:42.622 [main] INFO  org.acme.App - Publishing message
+17:59:43.806 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 10185 ms. UNAUTHENTICATED
+17:59:43.807 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 4184 ms. UNAUTHENTICATED
+17:59:43.807 [pool-2-thread-49] WARN  org.acme.App - Publish failed after 1184 ms. UNAUTHENTICATED
+17:59:45.622 [main] INFO  org.acme.App - Publishing message
+17:59:46.806 [pool-2-thread-18] WARN  org.acme.App - Publish failed after 1183 ms. UNAUTHENTICATED
+17:59:48.623 [main] INFO  org.acme.App - Publishing message
+17:59:49.806 [pool-2-thread-17] WARN  org.acme.App - Publish failed after 1183 ms. UNAUTHENTICATED
+17:59:51.623 [main] INFO  org.acme.App - Publishing message
+17:59:52.806 [pool-2-thread-10] WARN  org.acme.App - Publish failed after 1182 ms. UNAUTHENTICATED
+17:59:54.624 [main] INFO  org.acme.App - Publishing message
+17:59:55.806 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 1181 ms. UNAUTHENTICATED
+17:59:57.624 [main] INFO  org.acme.App - Publishing message
+17:59:58.806 [pool-2-thread-4] WARN  org.acme.App - Publish failed after 1181 ms. UNAUTHENTICATED
+18:00:00.625 [main] INFO  org.acme.App - Publishing message
+18:00:01.814 [pool-2-thread-35] WARN  org.acme.App - Publish failed after 1188 ms. UNAUTHENTICATED
+18:00:03.626 [main] INFO  org.acme.App - Publishing message
+18:00:04.806 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 1180 ms. UNAUTHENTICATED
+18:00:06.626 [main] INFO  org.acme.App - Publishing message
+18:00:07.806 [pool-2-thread-56] WARN  org.acme.App - Publish failed after 1179 ms. UNAUTHENTICATED
+18:00:09.627 [main] INFO  org.acme.App - Publishing message
+18:00:10.806 [pool-2-thread-9] WARN  org.acme.App - Publish failed after 1179 ms. UNAUTHENTICATED
+18:00:12.627 [main] INFO  org.acme.App - Publishing message
+18:00:13.806 [pool-2-thread-25] WARN  org.acme.App - Publish failed after 1178 ms. UNAUTHENTICATED
+18:00:15.628 [main] INFO  org.acme.App - Publishing message
+18:00:16.806 [pool-2-thread-28] WARN  org.acme.App - Publish failed after 1178 ms. UNAUTHENTICATED
+18:00:18.628 [main] INFO  org.acme.App - Publishing message
+18:00:19.806 [pool-2-thread-15] WARN  org.acme.App - Publish failed after 1177 ms. UNAUTHENTICATED
+18:00:21.629 [main] INFO  org.acme.App - Publishing message
+18:00:22.806 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 1177 ms. UNAUTHENTICATED
+18:00:24.629 [main] INFO  org.acme.App - Publishing message
+18:00:25.806 [pool-2-thread-50] WARN  org.acme.App - Publish failed after 1176 ms. UNAUTHENTICATED
+18:00:27.630 [main] INFO  org.acme.App - Publishing message
+18:00:28.806 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 1176 ms. UNAUTHENTICATED
+18:00:30.630 [main] INFO  org.acme.App - Publishing message
+18:00:31.806 [pool-2-thread-31] WARN  org.acme.App - Publish failed after 1175 ms. UNAUTHENTICATED
+18:00:33.631 [main] INFO  org.acme.App - Publishing message
+18:00:34.806 [pool-2-thread-58] WARN  org.acme.App - Publish failed after 1175 ms. UNAUTHENTICATED
+18:00:36.631 [main] INFO  org.acme.App - Publishing message
+18:00:37.807 [pool-2-thread-53] WARN  org.acme.App - Publish failed after 1175 ms. UNAUTHENTICATED
+18:00:39.632 [main] INFO  org.acme.App - Publishing message
+18:00:40.806 [pool-2-thread-57] WARN  org.acme.App - Publish failed after 1174 ms. UNAUTHENTICATED
+18:00:42.632 [main] INFO  org.acme.App - Publishing message
+18:00:43.806 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 1173 ms. UNAUTHENTICATED
+18:00:45.633 [main] INFO  org.acme.App - Publishing message
+18:00:46.806 [pool-2-thread-2] WARN  org.acme.App - Publish failed after 1173 ms. UNAUTHENTICATED
+18:00:48.633 [main] INFO  org.acme.App - Publishing message
+18:00:49.806 [pool-2-thread-38] WARN  org.acme.App - Publish failed after 1172 ms. UNAUTHENTICATED
+18:00:51.634 [main] INFO  org.acme.App - Publishing message
+18:00:52.806 [pool-2-thread-24] WARN  org.acme.App - Publish failed after 1172 ms. UNAUTHENTICATED
+18:00:54.634 [main] INFO  org.acme.App - Publishing message
+18:00:55.806 [pool-2-thread-43] WARN  org.acme.App - Publish failed after 1171 ms. UNAUTHENTICATED
+18:00:57.635 [main] INFO  org.acme.App - Publishing message
+18:00:58.807 [pool-2-thread-36] WARN  org.acme.App - Publish failed after 1171 ms. UNAUTHENTICATED
+18:01:00.635 [main] INFO  org.acme.App - Publishing message
+18:01:01.811 [pool-2-thread-14] WARN  org.acme.App - Publish failed after 1175 ms. UNAUTHENTICATED
+18:01:03.636 [main] INFO  org.acme.App - Publishing message
+18:01:04.806 [pool-2-thread-37] WARN  org.acme.App - Publish failed after 1170 ms. UNAUTHENTICATED
+18:01:06.636 [main] INFO  org.acme.App - Publishing message
+18:01:07.806 [pool-2-thread-21] WARN  org.acme.App - Publish failed after 1169 ms. UNAUTHENTICATED
+18:01:09.637 [main] INFO  org.acme.App - Publishing message
+18:01:10.806 [pool-2-thread-54] WARN  org.acme.App - Publish failed after 1168 ms. UNAUTHENTICATED
+18:01:12.637 [main] INFO  org.acme.App - Publishing message
+18:01:13.806 [pool-2-thread-10] WARN  org.acme.App - Publish failed after 1168 ms. UNAUTHENTICATED
+18:01:15.638 [main] INFO  org.acme.App - Publishing message
+18:01:16.806 [pool-2-thread-59] WARN  org.acme.App - Publish failed after 1168 ms. UNAUTHENTICATED
+18:01:18.639 [main] INFO  org.acme.App - Publishing message
+18:01:19.806 [pool-2-thread-20] WARN  org.acme.App - Publish failed after 1167 ms. UNAUTHENTICATED
+18:01:21.639 [main] INFO  org.acme.App - Publishing message
+18:01:22.806 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 1166 ms. UNAUTHENTICATED
+18:01:24.640 [main] INFO  org.acme.App - Publishing message
+18:01:25.806 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 1166 ms. UNAUTHENTICATED
+18:01:27.640 [main] INFO  org.acme.App - Publishing message
+18:01:28.806 [pool-2-thread-56] WARN  org.acme.App - Publish failed after 1165 ms. UNAUTHENTICATED
+18:01:30.641 [main] INFO  org.acme.App - Publishing message
+18:01:31.806 [pool-2-thread-42] WARN  org.acme.App - Publish failed after 1165 ms. UNAUTHENTICATED
+18:01:33.641 [main] INFO  org.acme.App - Publishing message
+18:01:34.806 [pool-2-thread-5] WARN  org.acme.App - Publish failed after 1164 ms. UNAUTHENTICATED
+18:01:36.642 [main] INFO  org.acme.App - Publishing message
+18:01:37.806 [pool-2-thread-28] WARN  org.acme.App - Publish failed after 1164 ms. UNAUTHENTICATED
+18:01:39.642 [main] INFO  org.acme.App - Publishing message
+18:01:42.643 [main] INFO  org.acme.App - Publishing message
+18:01:45.643 [main] INFO  org.acme.App - Publishing message
+18:01:46.807 [pool-2-thread-2] WARN  org.acme.App - Publish failed after 4163 ms. UNAUTHENTICATED
+18:01:48.644 [main] INFO  org.acme.App - Publishing message
+18:01:49.806 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 10163 ms. UNAUTHENTICATED
+18:01:49.807 [pool-2-thread-24] WARN  org.acme.App - Publish failed after 4163 ms. UNAUTHENTICATED
+18:01:49.807 [pool-2-thread-59] WARN  org.acme.App - Publish failed after 1162 ms. UNAUTHENTICATED
+18:01:51.644 [main] INFO  org.acme.App - Publishing message
+18:01:52.806 [pool-2-thread-60] WARN  org.acme.App - Publish failed after 1161 ms. UNAUTHENTICATED
+18:01:54.645 [main] INFO  org.acme.App - Publishing message
+18:01:55.806 [pool-2-thread-23] WARN  org.acme.App - Publish failed after 1160 ms. UNAUTHENTICATED
+18:01:57.645 [main] INFO  org.acme.App - Publishing message
+18:01:58.806 [pool-2-thread-54] WARN  org.acme.App - Publish failed after 1160 ms. UNAUTHENTICATED
+18:02:00.646 [main] INFO  org.acme.App - Publishing message
+18:02:01.808 [pool-2-thread-15] WARN  org.acme.App - Publish failed after 1161 ms. UNAUTHENTICATED
+18:02:03.646 [main] INFO  org.acme.App - Publishing message
+18:02:04.806 [pool-2-thread-10] WARN  org.acme.App - Publish failed after 1159 ms. UNAUTHENTICATED
+18:02:06.647 [main] INFO  org.acme.App - Publishing message
+18:02:09.648 [main] INFO  org.acme.App - Publishing message
+18:02:10.807 [pool-2-thread-11] WARN  org.acme.App - Publish failed after 4159 ms. UNAUTHENTICATED
+18:02:12.648 [main] INFO  org.acme.App - Publishing message
+18:02:13.807 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 4158 ms. UNAUTHENTICATED
+18:02:15.649 [main] INFO  org.acme.App - Publishing message
+18:02:16.807 [pool-2-thread-19] WARN  org.acme.App - Publish failed after 1157 ms. UNAUTHENTICATED
+18:02:18.649 [main] INFO  org.acme.App - Publishing message
+18:02:19.807 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 1157 ms. UNAUTHENTICATED
+18:02:21.650 [main] INFO  org.acme.App - Publishing message
+18:02:24.650 [main] INFO  org.acme.App - Publishing message
+18:02:25.806 [pool-2-thread-17] WARN  org.acme.App - Publish failed after 4156 ms. UNAUTHENTICATED
+18:02:25.806 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 1155 ms. UNAUTHENTICATED
+18:02:27.014 [pool-2-thread-30] WARN  org.acme.App - Publish failed after 14365 ms. DEADLINE_EXCEEDED
+18:02:27.651 [main] INFO  org.acme.App - Publishing message
+18:02:28.806 [pool-2-thread-34] WARN  org.acme.App - Publish failed after 1154 ms. UNAUTHENTICATED
+18:02:30.651 [main] INFO  org.acme.App - Publishing message
+18:02:33.652 [main] INFO  org.acme.App - Publishing message
+18:02:36.394 [pool-2-thread-18] WARN  org.acme.App - Publish failed after 5742 ms. UNAUTHENTICATED
+18:02:36.652 [main] INFO  org.acme.App - Publishing message
+18:02:39.395 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 5742 ms. UNAUTHENTICATED
+18:02:39.653 [main] INFO  org.acme.App - Publishing message
+18:02:42.653 [main] INFO  org.acme.App - Publishing message
+18:02:45.395 [pool-2-thread-35] WARN  org.acme.App - Publish failed after 2741 ms. UNAUTHENTICATED
+18:02:45.654 [main] INFO  org.acme.App - Publishing message
+18:02:48.395 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 11742 ms. UNAUTHENTICATED
+18:02:48.654 [main] INFO  org.acme.App - Publishing message
+18:02:51.395 [pool-2-thread-38] WARN  org.acme.App - Publish failed after 11741 ms. UNAUTHENTICATED
+18:02:51.395 [pool-2-thread-56] WARN  org.acme.App - Publish failed after 2740 ms. UNAUTHENTICATED
+18:02:51.655 [main] INFO  org.acme.App - Publishing message
+18:02:54.395 [pool-2-thread-5] WARN  org.acme.App - Publish failed after 2739 ms. UNAUTHENTICATED
+18:02:54.655 [main] INFO  org.acme.App - Publishing message
+18:02:57.394 [pool-2-thread-20] WARN  org.acme.App - Publish failed after 11740 ms. UNAUTHENTICATED
+18:02:57.656 [main] INFO  org.acme.App - Publishing message
+18:03:00.394 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 5738 ms. UNAUTHENTICATED
+18:03:00.656 [main] INFO  org.acme.App - Publishing message
+18:03:03.394 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 5738 ms. UNAUTHENTICATED
+18:03:03.657 [main] INFO  org.acme.App - Publishing message
+18:03:06.657 [main] INFO  org.acme.App - Publishing message
+18:03:09.395 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 5737 ms. UNAUTHENTICATED
+18:03:09.395 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 8738 ms. UNAUTHENTICATED
+18:03:09.658 [main] INFO  org.acme.App - Publishing message
+18:03:12.395 [pool-2-thread-35] WARN  org.acme.App - Publish failed after 5736 ms. UNAUTHENTICATED
+18:03:12.395 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 2736 ms. UNAUTHENTICATED
+18:03:12.658 [main] INFO  org.acme.App - Publishing message
+18:03:15.659 [main] INFO  org.acme.App - Publishing message
+18:03:18.395 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 2735 ms. UNAUTHENTICATED
+18:03:18.659 [main] INFO  org.acme.App - Publishing message
+18:03:21.395 [pool-2-thread-29] WARN  org.acme.App - Publish failed after 8736 ms. UNAUTHENTICATED
+18:03:21.395 [pool-2-thread-2] WARN  org.acme.App - Publish failed after 2735 ms. UNAUTHENTICATED
+18:03:21.660 [main] INFO  org.acme.App - Publishing message
+18:03:24.394 [pool-2-thread-58] WARN  org.acme.App - Publish failed after 2734 ms. UNAUTHENTICATED
+18:03:24.660 [main] INFO  org.acme.App - Publishing message
+18:03:27.661 [main] INFO  org.acme.App - Publishing message
+18:03:30.394 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 5733 ms. UNAUTHENTICATED
+18:03:30.394 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 2733 ms. UNAUTHENTICATED
+18:03:30.661 [main] INFO  org.acme.App - Publishing message
+18:03:33.662 [main] INFO  org.acme.App - Publishing message
+18:03:36.395 [pool-2-thread-31] WARN  org.acme.App - Publish failed after 5733 ms. UNAUTHENTICATED
+18:03:36.396 [pool-2-thread-10] WARN  org.acme.App - Publish failed after 2733 ms. UNAUTHENTICATED
+18:03:36.662 [main] INFO  org.acme.App - Publishing message
+18:03:39.395 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 2732 ms. UNAUTHENTICATED
+18:03:39.663 [main] INFO  org.acme.App - Publishing message
+18:03:42.663 [main] INFO  org.acme.App - Publishing message
+18:03:45.395 [pool-2-thread-3] WARN  org.acme.App - Publish failed after 2731 ms. UNAUTHENTICATED
+18:03:45.664 [main] INFO  org.acme.App - Publishing message
+18:03:48.395 [pool-2-thread-49] WARN  org.acme.App - Publish failed after 8731 ms. UNAUTHENTICATED
+18:03:48.395 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 2730 ms. UNAUTHENTICATED
+18:03:48.664 [main] INFO  org.acme.App - Publishing message
+18:03:51.665 [main] INFO  org.acme.App - Publishing message
+18:03:54.394 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 5729 ms. UNAUTHENTICATED
+18:03:54.394 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 2729 ms. UNAUTHENTICATED
+18:03:54.665 [main] INFO  org.acme.App - Publishing message
+18:03:57.666 [main] INFO  org.acme.App - Publishing message
+18:04:00.394 [pool-2-thread-44] WARN  org.acme.App - Publish failed after 5728 ms. UNAUTHENTICATED
+18:04:00.394 [pool-2-thread-46] WARN  org.acme.App - Publish failed after 2728 ms. UNAUTHENTICATED
+18:04:00.666 [main] INFO  org.acme.App - Publishing message
+18:04:03.394 [pool-2-thread-49] WARN  org.acme.App - Publish failed after 2727 ms. UNAUTHENTICATED
+18:04:03.667 [main] INFO  org.acme.App - Publishing message
+18:04:06.394 [pool-2-thread-25] WARN  org.acme.App - Publish failed after 2727 ms. UNAUTHENTICATED
+18:04:06.667 [main] INFO  org.acme.App - Publishing message
+18:04:09.394 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 2726 ms. UNAUTHENTICATED
+18:04:09.668 [main] INFO  org.acme.App - Publishing message
+18:04:12.395 [pool-2-thread-34] WARN  org.acme.App - Publish failed after 2726 ms. UNAUTHENTICATED
+18:04:12.668 [main] INFO  org.acme.App - Publishing message
+18:04:15.394 [pool-2-thread-44] WARN  org.acme.App - Publish failed after 2725 ms. UNAUTHENTICATED
+18:04:15.669 [main] INFO  org.acme.App - Publishing message
+18:04:18.394 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 2725 ms. UNAUTHENTICATED
+18:04:18.669 [main] INFO  org.acme.App - Publishing message
+18:04:21.394 [pool-2-thread-57] WARN  org.acme.App - Publish failed after 2725 ms. UNAUTHENTICATED
+18:04:21.670 [main] INFO  org.acme.App - Publishing message
+18:04:24.394 [pool-2-thread-2] WARN  org.acme.App - Publish failed after 2724 ms. UNAUTHENTICATED
+18:04:24.670 [main] INFO  org.acme.App - Publishing message
+18:04:27.394 [pool-2-thread-30] WARN  org.acme.App - Publish failed after 2724 ms. UNAUTHENTICATED
+18:04:27.671 [main] INFO  org.acme.App - Publishing message
+18:04:30.394 [pool-2-thread-26] WARN  org.acme.App - Publish failed after 2723 ms. UNAUTHENTICATED
+18:04:30.671 [main] INFO  org.acme.App - Publishing message
+18:04:33.394 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 2722 ms. UNAUTHENTICATED
+18:04:33.671 [main] INFO  org.acme.App - Publishing message
+18:04:36.394 [pool-2-thread-31] WARN  org.acme.App - Publish failed after 2722 ms. UNAUTHENTICATED
+18:04:36.672 [main] INFO  org.acme.App - Publishing message
+18:04:39.394 [pool-2-thread-48] WARN  org.acme.App - Publish failed after 2722 ms. UNAUTHENTICATED
+18:04:39.672 [main] INFO  org.acme.App - Publishing message
+18:04:42.394 [pool-2-thread-53] WARN  org.acme.App - Publish failed after 2721 ms. UNAUTHENTICATED
+18:04:42.673 [main] INFO  org.acme.App - Publishing message
+18:04:45.395 [pool-2-thread-3] WARN  org.acme.App - Publish failed after 2721 ms. UNAUTHENTICATED
+18:04:45.673 [main] INFO  org.acme.App - Publishing message
+18:04:48.395 [pool-2-thread-4] WARN  org.acme.App - Publish failed after 2721 ms. UNAUTHENTICATED
+18:04:48.674 [main] INFO  org.acme.App - Publishing message
+18:04:51.394 [pool-2-thread-54] WARN  org.acme.App - Publish failed after 2720 ms. UNAUTHENTICATED
+18:04:51.674 [main] INFO  org.acme.App - Publishing message
+18:04:54.394 [pool-2-thread-57] WARN  org.acme.App - Publish failed after 2719 ms. UNAUTHENTICATED
+18:04:54.675 [main] INFO  org.acme.App - Publishing message
+18:04:57.394 [pool-2-thread-11] WARN  org.acme.App - Publish failed after 2719 ms. UNAUTHENTICATED
+18:04:57.675 [main] INFO  org.acme.App - Publishing message
+18:05:00.394 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 2718 ms. UNAUTHENTICATED
+18:05:00.676 [main] INFO  org.acme.App - Publishing message
+18:05:03.394 [pool-2-thread-26] WARN  org.acme.App - Publish failed after 2718 ms. UNAUTHENTICATED
+18:05:03.676 [main] INFO  org.acme.App - Publishing message
+18:05:06.394 [pool-2-thread-16] WARN  org.acme.App - Publish failed after 2717 ms. UNAUTHENTICATED
+18:05:06.677 [main] INFO  org.acme.App - Publishing message
+18:05:09.394 [pool-2-thread-25] WARN  org.acme.App - Publish failed after 2717 ms. UNAUTHENTICATED
+18:05:09.677 [main] INFO  org.acme.App - Publishing message
+18:05:12.394 [pool-2-thread-17] WARN  org.acme.App - Publish failed after 2716 ms. UNAUTHENTICATED
+18:05:12.677 [main] INFO  org.acme.App - Publishing message
+18:05:15.394 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 2716 ms. UNAUTHENTICATED
+18:05:15.678 [main] INFO  org.acme.App - Publishing message
+18:05:18.394 [pool-2-thread-6] WARN  org.acme.App - Publish failed after 2716 ms. UNAUTHENTICATED
+18:05:18.678 [main] INFO  org.acme.App - Publishing message
+18:05:21.394 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 2715 ms. UNAUTHENTICATED
+18:05:21.679 [main] INFO  org.acme.App - Publishing message
+18:05:24.394 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 2715 ms. UNAUTHENTICATED
+18:05:24.679 [main] INFO  org.acme.App - Publishing message
+18:05:27.394 [pool-2-thread-43] WARN  org.acme.App - Publish failed after 2714 ms. UNAUTHENTICATED
+18:05:27.680 [main] INFO  org.acme.App - Publishing message
+18:05:30.394 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 2714 ms. UNAUTHENTICATED
+18:05:30.680 [main] INFO  org.acme.App - Publishing message
+18:05:33.394 [pool-2-thread-26] WARN  org.acme.App - Publish failed after 2713 ms. UNAUTHENTICATED
+18:05:33.681 [main] INFO  org.acme.App - Publishing message
+18:05:36.394 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 2713 ms. UNAUTHENTICATED
+18:05:36.681 [main] INFO  org.acme.App - Publishing message
+18:05:39.394 [pool-2-thread-25] WARN  org.acme.App - Publish failed after 2712 ms. UNAUTHENTICATED
+18:05:39.682 [main] INFO  org.acme.App - Publishing message
+18:05:42.394 [pool-2-thread-17] WARN  org.acme.App - Publish failed after 2712 ms. UNAUTHENTICATED
+18:05:42.682 [main] INFO  org.acme.App - Publishing message
+18:05:45.394 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 2712 ms. UNAUTHENTICATED
+18:05:45.682 [main] INFO  org.acme.App - Publishing message
+18:05:48.394 [pool-2-thread-6] WARN  org.acme.App - Publish failed after 2711 ms. UNAUTHENTICATED
+18:05:48.683 [main] INFO  org.acme.App - Publishing message
+18:05:51.394 [pool-2-thread-16] WARN  org.acme.App - Publish failed after 2711 ms. UNAUTHENTICATED
+18:05:51.683 [main] INFO  org.acme.App - Publishing message
+18:05:54.394 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 2710 ms. UNAUTHENTICATED
+18:05:54.684 [main] INFO  org.acme.App - Publishing message
+18:05:57.395 [pool-2-thread-43] WARN  org.acme.App - Publish failed after 2710 ms. UNAUTHENTICATED
+18:05:57.684 [main] INFO  org.acme.App - Publishing message
+18:06:00.394 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 2709 ms. UNAUTHENTICATED
+18:06:00.685 [main] INFO  org.acme.App - Publishing message
+18:06:03.394 [pool-2-thread-26] WARN  org.acme.App - Publish failed after 2709 ms. UNAUTHENTICATED
+18:06:03.685 [main] INFO  org.acme.App - Publishing message
+18:06:06.394 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 2708 ms. UNAUTHENTICATED
+18:06:06.686 [main] INFO  org.acme.App - Publishing message
+18:06:09.394 [pool-2-thread-25] WARN  org.acme.App - Publish failed after 2708 ms. UNAUTHENTICATED
+18:06:09.686 [main] INFO  org.acme.App - Publishing message
+18:06:12.394 [pool-2-thread-17] WARN  org.acme.App - Publish failed after 2707 ms. UNAUTHENTICATED
+18:06:12.686 [main] INFO  org.acme.App - Publishing message
+18:06:15.398 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 2711 ms. UNAUTHENTICATED
+18:06:15.687 [main] INFO  org.acme.App - Publishing message
+18:06:18.398 [pool-2-thread-6] WARN  org.acme.App - Publish failed after 2711 ms. UNAUTHENTICATED
+18:06:18.687 [main] INFO  org.acme.App - Publishing message
+18:06:21.398 [pool-2-thread-16] WARN  org.acme.App - Publish failed after 2710 ms. UNAUTHENTICATED
+18:06:21.688 [main] INFO  org.acme.App - Publishing message
+18:06:24.398 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 2710 ms. UNAUTHENTICATED
+18:06:24.688 [main] INFO  org.acme.App - Publishing message
+18:06:27.689 [main] INFO  org.acme.App - Publishing message
+18:06:30.398 [pool-2-thread-34] WARN  org.acme.App - Publish failed after 5709 ms. UNAUTHENTICATED
+18:06:30.398 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 2709 ms. UNAUTHENTICATED
+18:06:30.689 [main] INFO  org.acme.App - Publishing message
+18:06:33.399 [pool-2-thread-26] WARN  org.acme.App - Publish failed after 2708 ms. UNAUTHENTICATED
+18:06:33.690 [main] INFO  org.acme.App - Publishing message
+18:06:36.398 [pool-2-thread-56] WARN  org.acme.App - Publish failed after 2708 ms. UNAUTHENTICATED
+18:06:36.690 [main] INFO  org.acme.App - Publishing message
+18:06:39.403 [pool-2-thread-22] WARN  org.acme.App - Publish failed after 2712 ms. UNAUTHENTICATED
+18:06:39.691 [main] INFO  org.acme.App - Publishing message
+18:06:42.402 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 2711 ms. UNAUTHENTICATED
+18:06:42.691 [main] INFO  org.acme.App - Publishing message
+18:06:45.402 [pool-2-thread-28] WARN  org.acme.App - Publish failed after 2710 ms. UNAUTHENTICATED
+18:06:45.692 [main] INFO  org.acme.App - Publishing message
+18:06:48.403 [pool-2-thread-46] WARN  org.acme.App - Publish failed after 2710 ms. UNAUTHENTICATED
+18:06:48.692 [main] INFO  org.acme.App - Publishing message
+18:06:51.693 [main] INFO  org.acme.App - Publishing message
+18:06:54.693 [main] INFO  org.acme.App - Publishing message
+18:06:57.694 [main] INFO  org.acme.App - Publishing message
+18:07:00.694 [main] INFO  org.acme.App - Publishing message
+18:07:03.151 [pool-2-thread-25] WARN  org.acme.App - Publish failed after 14458 ms. DEADLINE_EXCEEDED
+18:07:03.695 [main] INFO  org.acme.App - Publishing message
+18:07:06.082 [pool-2-thread-3] WARN  org.acme.App - Publish failed after 14389 ms. DEADLINE_EXCEEDED
+18:07:06.695 [main] INFO  org.acme.App - Publishing message
+18:07:09.018 [pool-2-thread-25] WARN  org.acme.App - Publish failed after 14324 ms. DEADLINE_EXCEEDED
+18:07:09.696 [main] INFO  org.acme.App - Publishing message
+18:07:12.102 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 14408 ms. DEADLINE_EXCEEDED
+18:07:12.696 [main] INFO  org.acme.App - Publishing message
+18:07:15.082 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 14387 ms. DEADLINE_EXCEEDED
+18:07:15.697 [main] INFO  org.acme.App - Publishing message
+18:07:18.033 [pool-2-thread-17] WARN  org.acme.App - Publish failed after 14337 ms. DEADLINE_EXCEEDED
+18:07:18.697 [main] INFO  org.acme.App - Publishing message
+18:07:21.029 [pool-2-thread-4] WARN  org.acme.App - Publish failed after 14333 ms. DEADLINE_EXCEEDED
+18:07:21.698 [main] INFO  org.acme.App - Publishing message
+18:07:24.057 [pool-2-thread-6] WARN  org.acme.App - Publish failed after 14361 ms. DEADLINE_EXCEEDED
+18:07:24.166 [pool-2-thread-7] WARN  org.acme.App - Publish failed after 5468 ms. UNAUTHENTICATED
+18:07:24.175 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 2476 ms. UNAUTHENTICATED
+18:07:24.638 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 11941 ms. UNAUTHENTICATED
+18:07:24.698 [main] INFO  org.acme.App - Publishing message
+18:07:25.329 [pool-2-thread-35] WARN  org.acme.App - Publish failed after 630 ms. UNAUTHENTICATED
+18:07:26.078 [pool-2-thread-18] WARN  org.acme.App - Publish failed after 10381 ms. UNAUTHENTICATED
+18:07:27.699 [main] INFO  org.acme.App - Publishing message
+18:07:27.720 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 20 ms. UNAUTHENTICATED
+18:07:30.699 [main] INFO  org.acme.App - Publishing message
+18:07:30.715 [pool-2-thread-17] WARN  org.acme.App - Publish failed after 16 ms. UNAUTHENTICATED
+18:07:33.700 [main] INFO  org.acme.App - Publishing message
+18:07:33.721 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 20 ms. UNAUTHENTICATED
+18:07:36.700 [main] INFO  org.acme.App - Publishing message
+18:07:39.402 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 2701 ms. UNAUTHENTICATED
+18:07:39.701 [main] INFO  org.acme.App - Publishing message

@@ -1,0 +1,400 @@
+15:57:38.388 [main] INFO  org.acme.App - Publishing message
+15:57:40.318 [pool-2-thread-1] INFO  org.acme.App - Published in 1803 ms! [126397540110173]
+15:57:41.525 [main] INFO  org.acme.App - Publishing message
+15:57:42.107 [pool-2-thread-13] INFO  org.acme.App - Published in 582 ms! [126406410412072]
+15:57:44.525 [main] INFO  org.acme.App - Publishing message
+15:57:45.071 [pool-2-thread-10] INFO  org.acme.App - Published in 545 ms! [126423721755257]
+15:57:47.526 [main] INFO  org.acme.App - Publishing message
+15:57:48.048 [pool-2-thread-24] INFO  org.acme.App - Published in 522 ms! [126407180844745]
+15:57:50.527 [main] INFO  org.acme.App - Publishing message
+15:57:50.985 [pool-2-thread-1] INFO  org.acme.App - Published in 457 ms! [126423721755820]
+15:57:53.528 [main] INFO  org.acme.App - Publishing message
+15:57:54.026 [pool-2-thread-18] INFO  org.acme.App - Published in 498 ms! [126441310933095]
+15:57:56.528 [main] INFO  org.acme.App - Publishing message
+15:57:56.643 [pool-2-thread-38] INFO  org.acme.App - Published in 114 ms! [126436659830142]
+15:57:59.529 [main] INFO  org.acme.App - Publishing message
+15:57:59.631 [pool-2-thread-5] INFO  org.acme.App - Published in 102 ms! [126415993356172]
+15:58:02.529 [main] INFO  org.acme.App - Publishing message
+15:58:02.648 [pool-2-thread-43] INFO  org.acme.App - Published in 118 ms! [126401618048017]
+15:58:05.530 [main] INFO  org.acme.App - Publishing message
+15:58:05.635 [pool-2-thread-45] INFO  org.acme.App - Published in 104 ms! [126424479097708]
+15:58:08.530 [main] INFO  org.acme.App - Publishing message
+15:58:08.669 [pool-2-thread-24] INFO  org.acme.App - Published in 138 ms! [126416165917095]
+15:58:11.531 [main] INFO  org.acme.App - Publishing message
+15:58:11.635 [pool-2-thread-51] INFO  org.acme.App - Published in 103 ms! [126436601957611]
+15:58:14.532 [main] INFO  org.acme.App - Publishing message
+15:58:14.625 [pool-2-thread-54] INFO  org.acme.App - Published in 93 ms! [126401618050349]
+15:58:17.532 [main] INFO  org.acme.App - Publishing message
+15:58:17.641 [pool-2-thread-56] INFO  org.acme.App - Published in 108 ms! [126401940718789]
+15:58:20.533 [main] INFO  org.acme.App - Publishing message
+15:58:20.654 [pool-2-thread-59] INFO  org.acme.App - Published in 121 ms! [126382948850931]
+15:58:23.533 [main] INFO  org.acme.App - Publishing message
+15:58:23.562 [pool-2-thread-15] INFO  org.acme.App - Published in 28 ms! [126382948851243]
+15:58:26.534 [main] INFO  org.acme.App - Publishing message
+15:58:26.654 [pool-2-thread-9] INFO  org.acme.App - Published in 120 ms! [126419925233984]
+15:58:29.534 [main] INFO  org.acme.App - Publishing message
+15:58:29.563 [pool-2-thread-37] INFO  org.acme.App - Published in 28 ms! [126407180852286]
+15:58:32.535 [main] INFO  org.acme.App - Publishing message
+15:58:32.568 [pool-2-thread-40] INFO  org.acme.App - Published in 33 ms! [126436601960331]
+15:58:35.535 [main] INFO  org.acme.App - Publishing message
+15:58:35.590 [pool-2-thread-11] INFO  org.acme.App - Published in 54 ms! [126416165920428]
+15:58:38.536 [main] INFO  org.acme.App - Publishing message
+15:58:38.636 [pool-2-thread-12] INFO  org.acme.App - Published in 99 ms! [126383099582769]
+15:58:41.536 [main] INFO  org.acme.App - Publishing message
+15:58:41.564 [pool-2-thread-47] INFO  org.acme.App - Published in 27 ms! [126383099583058]
+15:58:44.537 [main] INFO  org.acme.App - Publishing message
+15:58:44.793 [pool-2-thread-26] INFO  org.acme.App - Published in 256 ms! [126441397945028]
+15:58:47.537 [main] INFO  org.acme.App - Publishing message
+15:58:47.640 [pool-2-thread-4] INFO  org.acme.App - Published in 102 ms! [126401023479935]
+15:58:50.538 [main] INFO  org.acme.App - Publishing message
+15:58:50.567 [pool-2-thread-29] INFO  org.acme.App - Published in 28 ms! [126401023480327]
+15:58:53.538 [main] INFO  org.acme.App - Publishing message
+15:58:53.568 [pool-2-thread-1] INFO  org.acme.App - Published in 29 ms! [126415993361666]
+15:58:56.539 [main] INFO  org.acme.App - Publishing message
+15:58:56.568 [pool-2-thread-8] INFO  org.acme.App - Published in 28 ms! [126436601963178]
+15:58:59.539 [main] INFO  org.acme.App - Publishing message
+15:58:59.649 [pool-2-thread-18] INFO  org.acme.App - Published in 109 ms! [126441972325590]
+15:59:02.540 [main] INFO  org.acme.App - Publishing message
+15:59:02.592 [pool-2-thread-10] INFO  org.acme.App - Published in 52 ms! [126436601964547]
+15:59:05.541 [main] INFO  org.acme.App - Publishing message
+15:59:05.648 [pool-2-thread-40] INFO  org.acme.App - Published in 106 ms! [126403612662274]
+15:59:08.541 [main] INFO  org.acme.App - Publishing message
+15:59:08.569 [pool-2-thread-11] INFO  org.acme.App - Published in 27 ms! [126403612662736]
+15:59:11.542 [main] INFO  org.acme.App - Publishing message
+15:59:11.639 [pool-2-thread-12] INFO  org.acme.App - Published in 96 ms! [126384551582481]
+15:59:14.542 [main] INFO  org.acme.App - Publishing message
+15:59:14.568 [pool-2-thread-47] INFO  org.acme.App - Published in 25 ms! [126403612663669]
+15:59:17.543 [main] INFO  org.acme.App - Publishing message
+15:59:17.577 [pool-2-thread-2] INFO  org.acme.App - Published in 33 ms! [126441310944603]
+15:59:20.543 [main] INFO  org.acme.App - Publishing message
+15:59:20.586 [pool-2-thread-53] INFO  org.acme.App - Published in 42 ms! [126415993365302]
+15:59:23.544 [main] INFO  org.acme.App - Publishing message
+15:59:23.647 [pool-2-thread-55] INFO  org.acme.App - Published in 103 ms! [126403325269547]
+15:59:26.544 [main] INFO  org.acme.App - Publishing message
+15:59:26.576 [pool-2-thread-57] INFO  org.acme.App - Published in 31 ms! [126436601968244]
+15:59:29.545 [main] INFO  org.acme.App - Publishing message
+15:59:29.665 [pool-2-thread-60] INFO  org.acme.App - Published in 120 ms! [126402104836729]
+15:59:32.545 [main] INFO  org.acme.App - Publishing message
+15:59:32.578 [pool-2-thread-17] INFO  org.acme.App - Published in 32 ms! [126401940731294]
+15:59:35.546 [main] INFO  org.acme.App - Publishing message
+15:59:35.581 [pool-2-thread-18] INFO  org.acme.App - Published in 34 ms! [126397540129606]
+15:59:38.546 [main] INFO  org.acme.App - Publishing message
+15:59:38.582 [pool-2-thread-10] INFO  org.acme.App - Published in 34 ms! [126397540130566]
+15:59:41.547 [main] INFO  org.acme.App - Publishing message
+15:59:41.671 [pool-2-thread-40] INFO  org.acme.App - Published in 124 ms! [126403772824229]
+15:59:44.547 [main] INFO  org.acme.App - Publishing message
+15:59:44.579 [pool-2-thread-11] INFO  org.acme.App - Published in 31 ms! [126382948864883]
+15:59:47.548 [main] INFO  org.acme.App - Publishing message
+15:59:47.596 [pool-2-thread-12] INFO  org.acme.App - Published in 47 ms! [126397540133251]
+15:59:50.548 [main] INFO  org.acme.App - Publishing message
+15:59:50.726 [pool-2-thread-47] INFO  org.acme.App - Published in 177 ms! [126407180867646]
+15:59:53.549 [main] INFO  org.acme.App - Publishing message
+15:59:53.642 [pool-2-thread-2] INFO  org.acme.App - Published in 92 ms! [126403034888958]
+15:59:56.550 [main] INFO  org.acme.App - Publishing message
+15:59:56.581 [pool-2-thread-53] INFO  org.acme.App - Published in 31 ms! [126406732231831]
+15:59:59.550 [main] INFO  org.acme.App - Publishing message
+15:59:59.581 [pool-2-thread-55] INFO  org.acme.App - Published in 30 ms! [126382948867794]
+16:00:02.551 [main] INFO  org.acme.App - Publishing message
+16:00:02.590 [pool-2-thread-57] INFO  org.acme.App - Published in 39 ms! [126384551596815]
+16:00:05.551 [main] INFO  org.acme.App - Publishing message
+16:00:05.704 [pool-2-thread-60] INFO  org.acme.App - Published in 152 ms! [126403902829596]
+16:00:08.552 [main] INFO  org.acme.App - Publishing message
+16:00:08.577 [pool-2-thread-17] INFO  org.acme.App - Published in 24 ms! [126402104847002]
+16:00:11.552 [main] INFO  org.acme.App - Publishing message
+16:00:11.587 [pool-2-thread-18] INFO  org.acme.App - Published in 34 ms! [126403902830280]
+16:00:14.553 [main] INFO  org.acme.App - Publishing message
+16:00:14.581 [pool-2-thread-10] INFO  org.acme.App - Published in 27 ms! [126406410439773]
+16:00:17.553 [main] INFO  org.acme.App - Publishing message
+16:00:17.586 [pool-2-thread-5] INFO  org.acme.App - Published in 32 ms! [126423721786904]
+16:00:20.554 [main] INFO  org.acme.App - Publishing message
+16:00:20.601 [pool-2-thread-43] INFO  org.acme.App - Published in 46 ms! [126407180873191]
+16:00:23.554 [main] INFO  org.acme.App - Publishing message
+16:00:23.584 [pool-2-thread-45] INFO  org.acme.App - Published in 29 ms! [126403034895408]
+16:00:26.555 [main] INFO  org.acme.App - Publishing message
+16:00:26.596 [pool-2-thread-48] INFO  org.acme.App - Published in 41 ms! [126403325286459]
+16:00:29.555 [main] INFO  org.acme.App - Publishing message
+16:00:29.584 [pool-2-thread-25] INFO  org.acme.App - Published in 28 ms! [126403772836985]
+16:00:32.556 [main] INFO  org.acme.App - Publishing message
+16:00:32.585 [pool-2-thread-27] INFO  org.acme.App - Published in 28 ms! [126441972346361]
+16:00:35.556 [main] INFO  org.acme.App - Publishing message
+16:00:35.586 [pool-2-thread-28] INFO  org.acme.App - Published in 29 ms! [126401940748722]
+16:00:38.557 [main] INFO  org.acme.App - Publishing message
+16:00:38.585 [pool-2-thread-58] INFO  org.acme.App - Published in 28 ms! [126401540250989]
+16:00:41.557 [main] INFO  org.acme.App - Publishing message
+16:00:41.611 [pool-2-thread-31] INFO  org.acme.App - Published in 53 ms! [126403034898506]
+16:00:44.558 [main] INFO  org.acme.App - Publishing message
+16:00:44.599 [pool-2-thread-33] INFO  org.acme.App - Published in 41 ms! [126407180877191]
+16:00:47.558 [main] INFO  org.acme.App - Publishing message
+16:00:47.607 [pool-2-thread-35] INFO  org.acme.App - Published in 48 ms! [126401540252635]
+16:00:50.559 [main] INFO  org.acme.App - Publishing message
+16:00:50.593 [pool-2-thread-38] INFO  org.acme.App - Published in 34 ms! [126401023505787]
+16:00:53.559 [main] INFO  org.acme.App - Publishing message
+16:00:53.808 [pool-2-thread-11] INFO  org.acme.App - Published in 248 ms! [126419925258490]
+16:00:56.560 [main] INFO  org.acme.App - Publishing message
+16:00:56.591 [pool-2-thread-12] INFO  org.acme.App - Published in 30 ms! [126403902837642]
+16:00:59.560 [main] INFO  org.acme.App - Publishing message
+16:00:59.588 [pool-2-thread-47] INFO  org.acme.App - Published in 27 ms! [126403034900977]
+16:01:02.561 [main] INFO  org.acme.App - Publishing message
+16:01:02.601 [pool-2-thread-2] INFO  org.acme.App - Published in 39 ms! [126406732244950]
+16:01:05.561 [main] INFO  org.acme.App - Publishing message
+16:01:05.619 [pool-2-thread-53] INFO  org.acme.App - Published in 57 ms! [126397540145173]
+16:01:08.562 [main] INFO  org.acme.App - Publishing message
+16:01:08.592 [pool-2-thread-55] INFO  org.acme.App - Published in 30 ms! [126441397967768]
+16:01:11.562 [main] INFO  org.acme.App - Publishing message
+16:01:11.592 [pool-2-thread-57] INFO  org.acme.App - Published in 28 ms! [126403772845509]
+16:01:14.563 [main] INFO  org.acme.App - Publishing message
+16:01:14.592 [pool-2-thread-60] INFO  org.acme.App - Published in 29 ms! [126441397968594]
+16:01:17.563 [main] INFO  org.acme.App - Publishing message
+16:01:17.593 [pool-2-thread-17] INFO  org.acme.App - Published in 29 ms! [126401540257967]
+16:01:20.564 [main] INFO  org.acme.App - Publishing message
+16:01:20.602 [pool-2-thread-18] INFO  org.acme.App - Published in 37 ms! [126401940756501]
+16:01:23.564 [main] INFO  org.acme.App - Publishing message
+16:01:23.594 [pool-2-thread-10] INFO  org.acme.App - Published in 29 ms! [126382948880804]
+16:01:26.565 [main] INFO  org.acme.App - Publishing message
+16:01:26.595 [pool-2-thread-5] INFO  org.acme.App - Published in 29 ms! [126441310967449]
+16:01:29.565 [main] INFO  org.acme.App - Publishing message
+16:01:29.596 [pool-2-thread-11] INFO  org.acme.App - Published in 30 ms! [126401618081102]
+16:01:32.566 [main] INFO  org.acme.App - Publishing message
+16:01:32.619 [pool-2-thread-12] INFO  org.acme.App - Published in 52 ms! [126416165948393]
+16:01:35.567 [main] INFO  org.acme.App - Publishing message
+16:01:35.593 [pool-2-thread-47] INFO  org.acme.App - Published in 26 ms! [126441310968782]
+16:01:38.567 [main] INFO  org.acme.App - Publishing message
+16:01:38.617 [pool-2-thread-2] INFO  org.acme.App - Published in 49 ms! [126383099615496]
+16:01:41.568 [main] INFO  org.acme.App - Publishing message
+16:01:41.614 [pool-2-thread-53] INFO  org.acme.App - Published in 45 ms! [126424479134066]
+16:01:44.568 [main] INFO  org.acme.App - Publishing message
+16:01:44.608 [pool-2-thread-55] INFO  org.acme.App - Published in 39 ms! [126406410456513]
+16:01:47.569 [main] INFO  org.acme.App - Publishing message
+16:01:47.599 [pool-2-thread-57] INFO  org.acme.App - Published in 29 ms! [126423721802123]
+16:01:50.569 [main] INFO  org.acme.App - Publishing message
+16:01:50.601 [pool-2-thread-60] INFO  org.acme.App - Published in 31 ms! [126415282467241]
+16:01:53.570 [main] INFO  org.acme.App - Publishing message
+16:01:53.602 [pool-2-thread-17] INFO  org.acme.App - Published in 32 ms! [126401618084685]
+16:01:56.570 [main] INFO  org.acme.App - Publishing message
+16:01:56.746 [pool-2-thread-18] INFO  org.acme.App - Published in 175 ms! [126415993386304]
+16:01:59.571 [main] INFO  org.acme.App - Publishing message
+16:01:59.600 [pool-2-thread-10] INFO  org.acme.App - Published in 28 ms! [126401618085167]
+16:02:02.571 [main] INFO  org.acme.App - Publishing message
+16:02:02.615 [pool-2-thread-5] INFO  org.acme.App - Published in 42 ms! [126402104864592]
+16:02:05.572 [main] INFO  org.acme.App - Publishing message
+16:02:05.601 [pool-2-thread-11] INFO  org.acme.App - Published in 28 ms! [126403325301238]
+16:02:08.572 [main] INFO  org.acme.App - Publishing message
+16:02:08.604 [pool-2-thread-12] INFO  org.acme.App - Published in 31 ms! [126406732255318]
+16:02:11.573 [main] INFO  org.acme.App - Publishing message
+16:02:11.618 [pool-2-thread-47] INFO  org.acme.App - Published in 45 ms! [126436659884240]
+16:02:14.573 [main] INFO  org.acme.App - Publishing message
+16:02:14.604 [pool-2-thread-2] INFO  org.acme.App - Published in 30 ms! [126423721806477]
+16:02:17.574 [main] INFO  org.acme.App - Publishing message
+16:02:17.605 [pool-2-thread-53] INFO  org.acme.App - Published in 31 ms! [126403034911836]
+16:02:20.574 [main] INFO  org.acme.App - Publishing message
+16:02:20.614 [pool-2-thread-55] INFO  org.acme.App - Published in 38 ms! [126406732256978]
+16:02:23.575 [main] INFO  org.acme.App - Publishing message
+16:02:23.604 [pool-2-thread-57] INFO  org.acme.App - Published in 28 ms! [126406757657516]
+16:02:26.576 [main] INFO  org.acme.App - Publishing message
+16:02:26.605 [pool-2-thread-60] INFO  org.acme.App - Published in 29 ms! [126441310976195]
+16:02:29.576 [main] INFO  org.acme.App - Publishing message
+16:02:29.604 [pool-2-thread-17] INFO  org.acme.App - Published in 27 ms! [126384551622779]
+16:02:32.577 [main] INFO  org.acme.App - Publishing message
+16:02:32.624 [pool-2-thread-18] INFO  org.acme.App - Published in 47 ms! [126441397979058]
+16:02:35.577 [main] INFO  org.acme.App - Publishing message
+16:02:35.608 [pool-2-thread-10] INFO  org.acme.App - Published in 30 ms! [126403902850219]
+16:02:38.578 [main] INFO  org.acme.App - Publishing message
+16:02:38.610 [pool-2-thread-5] INFO  org.acme.App - Published in 32 ms! [126441972365500]
+16:02:41.578 [main] INFO  org.acme.App - Publishing message
+16:02:41.618 [pool-2-thread-11] INFO  org.acme.App - Published in 39 ms! [126402104871567]
+16:02:44.579 [main] INFO  org.acme.App - Publishing message
+16:02:44.679 [pool-2-thread-12] INFO  org.acme.App - Published in 99 ms! [126406723949896]
+16:02:47.579 [main] INFO  org.acme.App - Publishing message
+16:02:47.613 [pool-2-thread-47] INFO  org.acme.App - Published in 33 ms! [126403902851632]
+16:02:50.580 [main] INFO  org.acme.App - Publishing message
+16:02:50.632 [pool-2-thread-2] INFO  org.acme.App - Published in 51 ms! [126401023521791]
+16:02:53.580 [main] INFO  org.acme.App - Publishing message
+16:02:53.609 [pool-2-thread-53] INFO  org.acme.App - Published in 28 ms! [126406410466781]
+16:02:56.581 [main] INFO  org.acme.App - Publishing message
+16:02:56.615 [pool-2-thread-55] INFO  org.acme.App - Published in 34 ms! [126407180894577]
+16:02:59.582 [main] INFO  org.acme.App - Publishing message
+16:02:59.760 [pool-2-thread-57] INFO  org.acme.App - Published in 177 ms! [126441972368653]
+16:03:02.582 [main] INFO  org.acme.App - Publishing message
+16:03:02.627 [pool-2-thread-60] INFO  org.acme.App - Published in 44 ms! [126436659891688]
+16:03:05.583 [main] INFO  org.acme.App - Publishing message
+16:03:05.615 [pool-2-thread-33] INFO  org.acme.App - Published in 32 ms! [126419925283398]
+16:03:08.583 [main] INFO  org.acme.App - Publishing message
+16:03:08.642 [pool-2-thread-35] INFO  org.acme.App - Published in 58 ms! [126403772865680]
+16:03:11.584 [main] INFO  org.acme.App - Publishing message
+16:03:11.618 [pool-2-thread-20] INFO  org.acme.App - Published in 33 ms! [126419925284305]
+16:03:14.584 [main] INFO  org.acme.App - Publishing message
+16:03:14.619 [pool-2-thread-41] INFO  org.acme.App - Published in 34 ms! [126401023524595]
+16:03:17.585 [main] INFO  org.acme.App - Publishing message
+16:03:17.616 [pool-2-thread-44] INFO  org.acme.App - Published in 30 ms! [126441310983788]
+16:03:20.585 [main] INFO  org.acme.App - Publishing message
+16:03:20.640 [pool-2-thread-23] INFO  org.acme.App - Published in 54 ms! [126406365008990]
+16:03:23.586 [main] INFO  org.acme.App - Publishing message
+16:03:23.628 [pool-2-thread-24] INFO  org.acme.App - Published in 41 ms! [126384551630743]
+16:03:26.586 [main] INFO  org.acme.App - Publishing message
+16:03:26.620 [pool-2-thread-51] INFO  org.acme.App - Published in 33 ms! [126401618097036]
+16:03:29.587 [main] INFO  org.acme.App - Publishing message
+16:03:29.618 [pool-2-thread-13] INFO  org.acme.App - Published in 31 ms! [126403772868604]
+16:03:32.587 [main] INFO  org.acme.App - Publishing message
+16:03:32.618 [pool-2-thread-14] INFO  org.acme.App - Published in 29 ms! [126403034922676]
+16:03:35.588 [main] INFO  org.acme.App - Publishing message
+16:03:35.618 [pool-2-thread-30] INFO  org.acme.App - Published in 29 ms! [126424479150987]
+16:03:38.588 [main] INFO  org.acme.App - Publishing message
+16:03:38.621 [pool-2-thread-16] INFO  org.acme.App - Published in 32 ms! [126402204480877]
+16:03:41.589 [main] INFO  org.acme.App - Publishing message
+16:03:41.633 [pool-2-thread-32] INFO  org.acme.App - Published in 43 ms! [126403772870135]
+16:03:44.589 [main] INFO  org.acme.App - Publishing message
+16:03:44.623 [pool-2-thread-3] INFO  org.acme.App - Published in 33 ms! [126382948901174]
+16:03:47.590 [main] INFO  org.acme.App - Publishing message
+16:03:47.622 [pool-2-thread-20] INFO  org.acme.App - Published in 31 ms! [126441972375456]
+16:03:50.591 [main] INFO  org.acme.App - Publishing message
+16:03:50.620 [pool-2-thread-41] INFO  org.acme.App - Published in 29 ms! [126403902858986]
+16:03:53.591 [main] INFO  org.acme.App - Publishing message
+16:03:53.621 [pool-2-thread-44] INFO  org.acme.App - Published in 30 ms! [126436659898848]
+16:03:56.592 [main] INFO  org.acme.App - Publishing message
+16:03:56.648 [pool-2-thread-23] INFO  org.acme.App - Published in 55 ms! [126382948903111]
+16:03:59.592 [main] INFO  org.acme.App - Publishing message
+16:03:59.616 [pool-2-thread-24] INFO  org.acme.App - Published in 23 ms! [126382948903576]
+16:04:02.593 [main] INFO  org.acme.App - Publishing message
+16:04:02.791 [pool-2-thread-51] INFO  org.acme.App - Published in 197 ms! [126441972377596]
+16:04:05.593 [main] INFO  org.acme.App - Publishing message
+16:04:05.634 [pool-2-thread-13] INFO  org.acme.App - Published in 40 ms! [126416165969494]
+16:04:08.594 [main] INFO  org.acme.App - Publishing message
+16:04:08.630 [pool-2-thread-14] INFO  org.acme.App - Published in 35 ms! [126436602023017]
+16:04:11.594 [main] INFO  org.acme.App - Publishing message
+16:04:11.622 [pool-2-thread-30] INFO  org.acme.App - Published in 27 ms! [126383099637945]
+16:04:14.595 [main] INFO  org.acme.App - Publishing message
+16:04:14.628 [pool-2-thread-16] INFO  org.acme.App - Published in 33 ms! [126423721824191]
+16:04:17.595 [main] INFO  org.acme.App - Publishing message
+16:04:17.624 [pool-2-thread-32] INFO  org.acme.App - Published in 28 ms! [126415282485461]
+16:04:20.596 [main] INFO  org.acme.App - Publishing message
+16:04:20.640 [pool-2-thread-3] INFO  org.acme.App - Published in 44 ms! [126424479157455]
+16:04:23.596 [main] INFO  org.acme.App - Publishing message
+16:04:23.646 [pool-2-thread-20] INFO  org.acme.App - Published in 48 ms! [126415993401509]
+16:04:26.597 [main] INFO  org.acme.App - Publishing message
+16:04:26.626 [pool-2-thread-21] INFO  org.acme.App - Published in 29 ms! [126401618107719]
+16:04:29.598 [main] INFO  org.acme.App - Publishing message
+16:04:29.630 [pool-2-thread-22] INFO  org.acme.App - Published in 32 ms! [126403902863993]
+16:04:32.598 [main] INFO  org.acme.App - Publishing message
+16:04:32.632 [pool-2-thread-46] INFO  org.acme.App - Published in 33 ms! [126407180906845]
+16:04:35.599 [main] INFO  org.acme.App - Publishing message
+16:04:35.633 [pool-2-thread-49] INFO  org.acme.App - Published in 34 ms! [126401023536187]
+16:04:38.599 [main] INFO  org.acme.App - Publishing message
+16:04:38.637 [pool-2-thread-52] INFO  org.acme.App - Published in 37 ms! [126424479159791]
+16:04:41.600 [main] INFO  org.acme.App - Publishing message
+16:04:41.639 [pool-2-thread-54] INFO  org.acme.App - Published in 39 ms! [126407180907860]
+16:04:44.600 [main] INFO  org.acme.App - Publishing message
+16:04:44.632 [pool-2-thread-56] INFO  org.acme.App - Published in 31 ms! [126424479160489]
+16:04:47.601 [main] INFO  org.acme.App - Publishing message
+16:04:47.630 [pool-2-thread-59] INFO  org.acme.App - Published in 29 ms! [126382948911190]
+16:04:50.601 [main] INFO  org.acme.App - Publishing message
+16:04:50.642 [pool-2-thread-15] INFO  org.acme.App - Published in 40 ms! [126401940791233]
+16:04:53.602 [main] INFO  org.acme.App - Publishing message
+16:04:53.638 [pool-2-thread-34] INFO  org.acme.App - Published in 36 ms! [126406723965108]
+16:04:56.602 [main] INFO  org.acme.App - Publishing message
+16:04:56.632 [pool-2-thread-36] INFO  org.acme.App - Published in 29 ms! [126436602029491]
+16:04:59.603 [main] INFO  org.acme.App - Publishing message
+16:04:59.634 [pool-2-thread-39] INFO  org.acme.App - Published in 30 ms! [126406723965610]
+16:05:02.603 [main] INFO  org.acme.App - Publishing message
+16:05:02.643 [pool-2-thread-21] INFO  org.acme.App - Published in 39 ms! [126383099644103]
+16:05:05.604 [main] INFO  org.acme.App - Publishing message
+16:05:05.838 [pool-2-thread-23] INFO  org.acme.App - Published in 233 ms! [126407004315870]
+16:05:08.604 [main] INFO  org.acme.App - Publishing message
+16:05:08.635 [pool-2-thread-24] INFO  org.acme.App - Published in 30 ms! [126401940793384]
+16:05:11.605 [main] INFO  org.acme.App - Publishing message
+16:05:11.647 [pool-2-thread-51] INFO  org.acme.App - Published in 41 ms! [126407609643834]
+16:05:14.605 [main] INFO  org.acme.App - Publishing message
+16:05:14.632 [pool-2-thread-13] INFO  org.acme.App - Published in 26 ms! [126403902868277]
+16:05:17.606 [main] INFO  org.acme.App - Publishing message
+16:05:17.637 [pool-2-thread-56] INFO  org.acme.App - Published in 30 ms! [126403772883397]
+16:05:20.607 [main] INFO  org.acme.App - Publishing message
+16:05:20.650 [pool-2-thread-59] INFO  org.acme.App - Published in 43 ms! [126416165978262]
+16:05:23.607 [main] INFO  org.acme.App - Publishing message
+16:05:23.656 [pool-2-thread-15] INFO  org.acme.App - Published in 48 ms! [126401023540806]
+16:05:26.608 [main] INFO  org.acme.App - Publishing message
+16:05:26.636 [pool-2-thread-34] INFO  org.acme.App - Published in 28 ms! [126401023541078]
+16:05:29.608 [main] INFO  org.acme.App - Publishing message
+16:05:29.637 [pool-2-thread-36] INFO  org.acme.App - Published in 28 ms! [126401023541359]
+16:05:32.609 [main] INFO  org.acme.App - Publishing message
+16:05:32.650 [pool-2-thread-39] INFO  org.acme.App - Published in 40 ms! [126416165979638]
+16:05:35.609 [main] INFO  org.acme.App - Publishing message
+16:05:35.644 [pool-2-thread-21] INFO  org.acme.App - Published in 34 ms! [126407180913416]
+16:05:38.610 [main] INFO  org.acme.App - Publishing message
+16:05:38.642 [pool-2-thread-22] INFO  org.acme.App - Published in 31 ms! [126403034940889]
+16:05:41.610 [main] INFO  org.acme.App - Publishing message
+16:05:41.651 [pool-2-thread-46] INFO  org.acme.App - Published in 40 ms! [126401023542333]
+16:05:44.611 [main] INFO  org.acme.App - Publishing message
+16:05:44.640 [pool-2-thread-49] INFO  org.acme.App - Published in 28 ms! [126441972389656]
+16:05:47.611 [main] INFO  org.acme.App - Publishing message
+16:05:47.657 [pool-2-thread-52] INFO  org.acme.App - Published in 45 ms! [126384551650314]
+16:05:50.612 [main] INFO  org.acme.App - Publishing message
+16:05:50.638 [pool-2-thread-54] INFO  org.acme.App - Published in 25 ms! [126383099649135]
+16:05:53.612 [main] INFO  org.acme.App - Publishing message
+16:05:53.641 [pool-2-thread-56] INFO  org.acme.App - Published in 28 ms! [126384551651535]
+16:05:56.613 [main] INFO  org.acme.App - Publishing message
+16:05:56.639 [pool-2-thread-59] INFO  org.acme.App - Published in 26 ms! [126407004321942]
+16:05:59.613 [main] INFO  org.acme.App - Publishing message
+16:05:59.645 [pool-2-thread-15] INFO  org.acme.App - Published in 30 ms! [126406757686913]
+16:06:02.614 [main] INFO  org.acme.App - Publishing message
+16:06:02.662 [pool-2-thread-34] INFO  org.acme.App - Published in 47 ms! [126406732292018]
+16:06:05.614 [main] INFO  org.acme.App - Publishing message
+16:06:05.646 [pool-2-thread-36] INFO  org.acme.App - Published in 31 ms! [126441311006115]
+16:06:08.615 [main] INFO  org.acme.App - Publishing message
+16:06:08.805 [pool-2-thread-39] INFO  org.acme.App - Published in 189 ms! [126441398002700]
+16:06:11.615 [main] INFO  org.acme.App - Publishing message
+16:06:11.645 [pool-2-thread-21] INFO  org.acme.App - Published in 29 ms! [126419925309210]
+16:06:14.616 [main] INFO  org.acme.App - Publishing message
+16:06:14.647 [pool-2-thread-22] INFO  org.acme.App - Published in 30 ms! [126415282500213]
+16:06:17.616 [main] INFO  org.acme.App - Publishing message
+16:06:17.647 [pool-2-thread-46] INFO  org.acme.App - Published in 30 ms! [126419925309943]
+16:06:20.617 [main] INFO  org.acme.App - Publishing message
+16:06:20.664 [pool-2-thread-50] INFO  org.acme.App - Published in 46 ms! [126415282502638]
+16:06:23.618 [main] INFO  org.acme.App - Publishing message
+16:06:23.649 [pool-2-thread-26] INFO  org.acme.App - Published in 31 ms! [126401940803541]
+16:06:26.618 [main] INFO  org.acme.App - Publishing message
+16:06:26.668 [pool-2-thread-4] INFO  org.acme.App - Published in 49 ms! [126441311008508]
+16:06:29.619 [main] INFO  org.acme.App - Publishing message
+16:06:29.650 [pool-2-thread-29] INFO  org.acme.App - Published in 31 ms! [126406365037552]
+16:06:32.619 [main] INFO  org.acme.App - Publishing message
+16:06:32.649 [pool-2-thread-1] INFO  org.acme.App - Published in 29 ms! [126401618121135]
+16:06:35.620 [main] INFO  org.acme.App - Publishing message
+16:06:35.650 [pool-2-thread-8] INFO  org.acme.App - Published in 29 ms! [126441972395906]
+16:06:38.620 [main] INFO  org.acme.App - Publishing message
+16:06:38.649 [pool-2-thread-9] INFO  org.acme.App - Published in 28 ms! [126383099655231]
+16:06:41.621 [main] INFO  org.acme.App - Publishing message
+16:06:41.662 [pool-2-thread-37] INFO  org.acme.App - Published in 41 ms! [126407004327832]
+16:06:44.621 [main] INFO  org.acme.App - Publishing message
+16:06:44.648 [pool-2-thread-19] INFO  org.acme.App - Published in 26 ms! [126384551659135]
+16:06:47.622 [main] INFO  org.acme.App - Publishing message
+16:06:47.651 [pool-2-thread-42] INFO  org.acme.App - Published in 28 ms! [126415282505812]
+16:06:50.622 [main] INFO  org.acme.App - Publishing message
+16:06:50.656 [pool-2-thread-6] INFO  org.acme.App - Published in 33 ms! [126406365040982]
+16:06:53.623 [main] INFO  org.acme.App - Publishing message
+16:06:53.650 [pool-2-thread-7] INFO  org.acme.App - Published in 27 ms! [126415282506374]
+16:06:56.624 [main] INFO  org.acme.App - Publishing message
+16:06:56.682 [pool-2-thread-50] INFO  org.acme.App - Published in 57 ms! [126401618123999]
+16:06:59.624 [main] INFO  org.acme.App - Publishing message
+16:06:59.667 [pool-2-thread-26] INFO  org.acme.App - Published in 42 ms! [126406723977576]
+16:07:02.625 [main] INFO  org.acme.App - Publishing message
+16:07:02.675 [pool-2-thread-4] INFO  org.acme.App - Published in 49 ms! [126437101247791]
+16:07:05.625 [main] INFO  org.acme.App - Publishing message
+16:07:05.654 [pool-2-thread-29] INFO  org.acme.App - Published in 28 ms! [126437101248103]
+16:07:08.626 [main] INFO  org.acme.App - Publishing message
+16:07:08.655 [pool-2-thread-1] INFO  org.acme.App - Published in 29 ms! [126416014306161]
+16:07:11.626 [main] INFO  org.acme.App - Publishing message
+16:07:11.657 [pool-2-thread-8] INFO  org.acme.App - Published in 30 ms! [126401618125318]
+16:07:14.627 [main] INFO  org.acme.App - Publishing message
+16:07:14.798 [pool-2-thread-9] INFO  org.acme.App - Published in 171 ms! [126424479178011]
+16:07:17.627 [main] INFO  org.acme.App - Publishing message
+16:07:17.669 [pool-2-thread-37] INFO  org.acme.App - Published in 40 ms! [126406757696286]
+16:07:20.628 [main] INFO  org.acme.App - Publishing message
+16:07:20.669 [pool-2-thread-19] INFO  org.acme.App - Published in 40 ms! [126406365045348]
+16:07:23.628 [main] INFO  org.acme.App - Publishing message
+16:07:23.671 [pool-2-thread-42] INFO  org.acme.App - Published in 42 ms! [126402204506505]
+16:07:26.629 [main] INFO  org.acme.App - Publishing message
+16:07:26.679 [pool-2-thread-6] INFO  org.acme.App - Published in 49 ms! [126424592924988]
+16:07:29.629 [main] INFO  org.acme.App - Publishing message
+16:07:29.661 [pool-2-thread-7] INFO  org.acme.App - Published in 31 ms! [126415993417827]
+16:07:32.630 [main] INFO  org.acme.App - Publishing message
+16:07:32.660 [pool-2-thread-50] INFO  org.acme.App - Published in 29 ms! [126441398012177]
+16:07:35.631 [main] INFO  org.acme.App - Publishing message
+16:07:35.660 [pool-2-thread-26] INFO  org.acme.App - Published in 28 ms! [126415282510322]

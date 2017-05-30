@@ -1,0 +1,397 @@
+18:37:44.322 [main] INFO  org.acme.App - Publishing message
+18:37:47.416 [main] INFO  org.acme.App - Publishing message
+18:37:50.417 [main] INFO  org.acme.App - Publishing message
+18:37:53.418 [main] INFO  org.acme.App - Publishing message
+18:37:56.418 [main] INFO  org.acme.App - Publishing message
+18:37:58.793 [pool-2-thread-34] WARN  org.acme.App - Publish failed after 14385 ms. DEADLINE_EXCEEDED
+18:37:59.419 [main] INFO  org.acme.App - Publishing message
+18:38:01.846 [pool-2-thread-46] WARN  org.acme.App - Publish failed after 14429 ms. DEADLINE_EXCEEDED
+18:38:02.420 [main] INFO  org.acme.App - Publishing message
+18:38:04.856 [pool-2-thread-56] WARN  org.acme.App - Publish failed after 14439 ms. DEADLINE_EXCEEDED
+18:38:05.420 [main] INFO  org.acme.App - Publishing message
+18:38:07.776 [pool-2-thread-38] WARN  org.acme.App - Publish failed after 14357 ms. DEADLINE_EXCEEDED
+18:38:08.421 [main] INFO  org.acme.App - Publishing message
+18:38:10.826 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 14407 ms. DEADLINE_EXCEEDED
+18:38:11.421 [main] INFO  org.acme.App - Publishing message
+18:38:13.745 [pool-2-thread-5] WARN  org.acme.App - Publish failed after 14325 ms. DEADLINE_EXCEEDED
+18:38:14.422 [main] INFO  org.acme.App - Publishing message
+18:38:16.291 [pool-2-thread-53] INFO  org.acme.App - Published in 1869 ms! [126444788500252]
+18:38:16.744 [pool-2-thread-55] WARN  org.acme.App - Publish failed after 14323 ms. DEADLINE_EXCEEDED
+18:38:17.422 [main] INFO  org.acme.App - Publishing message
+18:38:19.391 [pool-2-thread-3] INFO  org.acme.App - Published in 7969 ms! [126450325417446]
+18:38:19.762 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 14341 ms. DEADLINE_EXCEEDED
+18:38:20.423 [main] INFO  org.acme.App - Publishing message
+18:38:22.747 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 14326 ms. DEADLINE_EXCEEDED
+18:38:23.423 [main] INFO  org.acme.App - Publishing message
+18:38:26.424 [main] INFO  org.acme.App - Publishing message
+18:38:27.265 [pool-2-thread-13] INFO  org.acme.App - Published in 9842 ms! [126443533434581]
+18:38:29.424 [main] INFO  org.acme.App - Publishing message
+18:38:29.841 [pool-2-thread-3] INFO  org.acme.App - Published in 6417 ms! [126443082328153]
+18:38:32.424 [main] INFO  org.acme.App - Publishing message
+18:38:32.959 [pool-2-thread-1] INFO  org.acme.App - Published in 6535 ms! [126444705772951]
+18:38:34.849 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 14426 ms. DEADLINE_EXCEEDED
+18:38:35.425 [main] INFO  org.acme.App - Publishing message
+18:38:38.425 [main] INFO  org.acme.App - Publishing message
+18:38:41.426 [main] INFO  org.acme.App - Publishing message
+18:38:42.538 [pool-2-thread-11] INFO  org.acme.App - Published in 7112 ms! [126461865603378]
+18:38:43.702 [pool-2-thread-58] WARN  org.acme.App - Publish failed after 14278 ms. DEADLINE_EXCEEDED
+18:38:44.426 [main] INFO  org.acme.App - Publishing message
+18:38:46.745 [pool-2-thread-11] WARN  org.acme.App - Publish failed after 14320 ms. DEADLINE_EXCEEDED
+18:38:47.427 [main] INFO  org.acme.App - Publishing message
+18:38:47.735 [pool-2-thread-1] INFO  org.acme.App - Published in 307 ms! [126443735439797]
+18:38:50.428 [main] INFO  org.acme.App - Publishing message
+18:38:50.662 [pool-2-thread-22] INFO  org.acme.App - Published in 234 ms! [126449768693026]
+18:38:52.737 [pool-2-thread-24] WARN  org.acme.App - Publish failed after 14311 ms. DEADLINE_EXCEEDED
+18:38:53.428 [main] INFO  org.acme.App - Publishing message
+18:38:55.786 [pool-2-thread-29] WARN  org.acme.App - Publish failed after 14359 ms. DEADLINE_EXCEEDED
+18:38:56.429 [main] INFO  org.acme.App - Publishing message
+18:38:58.779 [pool-2-thread-24] WARN  org.acme.App - Publish failed after 14352 ms. DEADLINE_EXCEEDED
+18:38:59.429 [main] INFO  org.acme.App - Publishing message
+18:39:02.430 [main] INFO  org.acme.App - Publishing message
+18:39:05.430 [main] INFO  org.acme.App - Publishing message
+18:39:07.801 [pool-2-thread-5] WARN  org.acme.App - Publish failed after 14372 ms. DEADLINE_EXCEEDED
+18:39:08.431 [main] INFO  org.acme.App - Publishing message
+18:39:10.817 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14388 ms. DEADLINE_EXCEEDED
+18:39:11.431 [main] INFO  org.acme.App - Publishing message
+18:39:13.771 [pool-2-thread-55] WARN  org.acme.App - Publish failed after 14341 ms. DEADLINE_EXCEEDED
+18:39:14.432 [main] INFO  org.acme.App - Publishing message
+18:39:16.723 [pool-2-thread-19] WARN  org.acme.App - Publish failed after 14292 ms. DEADLINE_EXCEEDED
+18:39:17.432 [main] INFO  org.acme.App - Publishing message
+18:39:19.756 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 14325 ms. DEADLINE_EXCEEDED
+18:39:20.433 [main] INFO  org.acme.App - Publishing message
+18:39:22.721 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 14289 ms. DEADLINE_EXCEEDED
+18:39:23.433 [main] INFO  org.acme.App - Publishing message
+18:39:25.831 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 14399 ms. DEADLINE_EXCEEDED
+18:39:26.434 [main] INFO  org.acme.App - Publishing message
+18:39:28.888 [pool-2-thread-3] WARN  org.acme.App - Publish failed after 14455 ms. DEADLINE_EXCEEDED
+18:39:29.434 [main] INFO  org.acme.App - Publishing message
+18:39:31.884 [pool-2-thread-32] WARN  org.acme.App - Publish failed after 14451 ms. DEADLINE_EXCEEDED
+18:39:32.435 [main] INFO  org.acme.App - Publishing message
+18:39:34.790 [pool-2-thread-55] WARN  org.acme.App - Publish failed after 14356 ms. DEADLINE_EXCEEDED
+18:39:34.972 [pool-2-thread-52] WARN  org.acme.App - Publish succeeded. Timeout period breached with duration of 11538 ms
+18:39:35.435 [main] INFO  org.acme.App - Publishing message
+18:39:38.435 [main] INFO  org.acme.App - Publishing message
+18:39:40.877 [pool-2-thread-42] WARN  org.acme.App - Publish failed after 14442 ms. DEADLINE_EXCEEDED
+18:39:41.436 [main] INFO  org.acme.App - Publishing message
+18:39:43.783 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 14348 ms. DEADLINE_EXCEEDED
+18:39:44.436 [main] INFO  org.acme.App - Publishing message
+18:39:46.899 [pool-2-thread-18] WARN  org.acme.App - Publish failed after 14464 ms. DEADLINE_EXCEEDED
+18:39:47.437 [main] INFO  org.acme.App - Publishing message
+18:39:49.731 [pool-2-thread-22] WARN  org.acme.App - Publish failed after 14296 ms. DEADLINE_EXCEEDED
+18:39:50.438 [main] INFO  org.acme.App - Publishing message
+18:39:51.657 [pool-2-thread-5] INFO  org.acme.App - Published in 7220 ms! [126443656225606]
+18:39:52.799 [pool-2-thread-49] WARN  org.acme.App - Publish failed after 14362 ms. DEADLINE_EXCEEDED
+18:39:53.438 [main] INFO  org.acme.App - Publishing message
+18:39:55.799 [pool-2-thread-38] WARN  org.acme.App - Publish failed after 14362 ms. DEADLINE_EXCEEDED
+18:39:56.438 [main] INFO  org.acme.App - Publishing message
+18:39:59.439 [main] INFO  org.acme.App - Publishing message
+18:40:01.849 [pool-2-thread-29] WARN  org.acme.App - Publish failed after 14411 ms. DEADLINE_EXCEEDED
+18:40:02.439 [main] INFO  org.acme.App - Publishing message
+18:40:04.824 [pool-2-thread-20] WARN  org.acme.App - Publish failed after 14385 ms. DEADLINE_EXCEEDED
+18:40:05.440 [main] INFO  org.acme.App - Publishing message
+18:40:07.773 [pool-2-thread-14] WARN  org.acme.App - Publish failed after 14334 ms. DEADLINE_EXCEEDED
+18:40:08.440 [main] INFO  org.acme.App - Publishing message
+18:40:10.845 [pool-2-thread-53] WARN  org.acme.App - Publish failed after 14406 ms. DEADLINE_EXCEEDED
+18:40:11.441 [main] INFO  org.acme.App - Publishing message
+18:40:13.755 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 14316 ms. DEADLINE_EXCEEDED
+18:40:14.441 [main] INFO  org.acme.App - Publishing message
+18:40:16.768 [pool-2-thread-32] WARN  org.acme.App - Publish failed after 14328 ms. DEADLINE_EXCEEDED
+18:40:17.442 [main] INFO  org.acme.App - Publishing message
+18:40:19.786 [pool-2-thread-43] WARN  org.acme.App - Publish failed after 14345 ms. DEADLINE_EXCEEDED
+18:40:20.442 [main] INFO  org.acme.App - Publishing message
+18:40:22.807 [pool-2-thread-11] WARN  org.acme.App - Publish failed after 14366 ms. DEADLINE_EXCEEDED
+18:40:23.443 [main] INFO  org.acme.App - Publishing message
+18:40:25.711 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 14269 ms. DEADLINE_EXCEEDED
+18:40:26.443 [main] INFO  org.acme.App - Publishing message
+18:40:28.834 [pool-2-thread-54] WARN  org.acme.App - Publish failed after 14391 ms. DEADLINE_EXCEEDED
+18:40:29.444 [main] INFO  org.acme.App - Publishing message
+18:40:31.798 [pool-2-thread-16] WARN  org.acme.App - Publish failed after 14355 ms. DEADLINE_EXCEEDED
+18:40:32.444 [main] INFO  org.acme.App - Publishing message
+18:40:34.757 [pool-2-thread-58] WARN  org.acme.App - Publish failed after 14314 ms. DEADLINE_EXCEEDED
+18:40:35.445 [main] INFO  org.acme.App - Publishing message
+18:40:37.837 [pool-2-thread-6] WARN  org.acme.App - Publish failed after 14393 ms. DEADLINE_EXCEEDED
+18:40:38.445 [main] INFO  org.acme.App - Publishing message
+18:40:40.807 [pool-2-thread-38] WARN  org.acme.App - Publish failed after 14362 ms. DEADLINE_EXCEEDED
+18:40:41.446 [main] INFO  org.acme.App - Publishing message
+18:40:43.848 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 14403 ms. DEADLINE_EXCEEDED
+18:40:44.446 [main] INFO  org.acme.App - Publishing message
+18:40:46.817 [pool-2-thread-29] WARN  org.acme.App - Publish failed after 14371 ms. DEADLINE_EXCEEDED
+18:40:47.447 [main] INFO  org.acme.App - Publishing message
+18:40:49.765 [pool-2-thread-20] WARN  org.acme.App - Publish failed after 14319 ms. DEADLINE_EXCEEDED
+18:40:50.447 [main] INFO  org.acme.App - Publishing message
+18:40:52.764 [pool-2-thread-29] WARN  org.acme.App - Publish failed after 14318 ms. DEADLINE_EXCEEDED
+18:40:53.448 [main] INFO  org.acme.App - Publishing message
+18:40:55.886 [pool-2-thread-26] WARN  org.acme.App - Publish failed after 14439 ms. DEADLINE_EXCEEDED
+18:40:56.448 [main] INFO  org.acme.App - Publishing message
+18:40:58.857 [pool-2-thread-14] WARN  org.acme.App - Publish failed after 14410 ms. DEADLINE_EXCEEDED
+18:40:59.449 [main] INFO  org.acme.App - Publishing message
+18:41:01.839 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 14391 ms. DEADLINE_EXCEEDED
+18:41:02.449 [main] INFO  org.acme.App - Publishing message
+18:41:04.796 [pool-2-thread-43] WARN  org.acme.App - Publish failed after 14348 ms. DEADLINE_EXCEEDED
+18:41:05.450 [main] INFO  org.acme.App - Publishing message
+18:41:07.732 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 14283 ms. DEADLINE_EXCEEDED
+18:41:08.450 [main] INFO  org.acme.App - Publishing message
+18:41:10.893 [pool-2-thread-43] WARN  org.acme.App - Publish failed after 14444 ms. DEADLINE_EXCEEDED
+18:41:11.451 [main] INFO  org.acme.App - Publishing message
+18:41:13.842 [pool-2-thread-37] WARN  org.acme.App - Publish failed after 14392 ms. DEADLINE_EXCEEDED
+18:41:14.451 [main] INFO  org.acme.App - Publishing message
+18:41:16.756 [pool-2-thread-43] WARN  org.acme.App - Publish failed after 14306 ms. DEADLINE_EXCEEDED
+18:41:17.452 [main] INFO  org.acme.App - Publishing message
+18:41:19.889 [pool-2-thread-37] WARN  org.acme.App - Publish failed after 14438 ms. DEADLINE_EXCEEDED
+18:41:20.452 [main] INFO  org.acme.App - Publishing message
+18:41:22.861 [pool-2-thread-44] WARN  org.acme.App - Publish failed after 14410 ms. DEADLINE_EXCEEDED
+18:41:23.453 [main] INFO  org.acme.App - Publishing message
+18:41:25.790 [pool-2-thread-30] WARN  org.acme.App - Publish failed after 14339 ms. DEADLINE_EXCEEDED
+18:41:26.453 [main] INFO  org.acme.App - Publishing message
+18:41:28.784 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 14332 ms. DEADLINE_EXCEEDED
+18:41:29.454 [main] INFO  org.acme.App - Publishing message
+18:41:31.811 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14359 ms. DEADLINE_EXCEEDED
+18:41:32.454 [main] INFO  org.acme.App - Publishing message
+18:41:34.827 [pool-2-thread-16] WARN  org.acme.App - Publish failed after 14374 ms. DEADLINE_EXCEEDED
+18:41:35.455 [main] INFO  org.acme.App - Publishing message
+18:41:37.762 [pool-2-thread-46] WARN  org.acme.App - Publish failed after 14308 ms. DEADLINE_EXCEEDED
+18:41:38.455 [main] INFO  org.acme.App - Publishing message
+18:41:40.735 [pool-2-thread-9] WARN  org.acme.App - Publish failed after 14281 ms. DEADLINE_EXCEEDED
+18:41:41.456 [main] INFO  org.acme.App - Publishing message
+18:41:43.786 [pool-2-thread-24] WARN  org.acme.App - Publish failed after 14332 ms. DEADLINE_EXCEEDED
+18:41:44.456 [main] INFO  org.acme.App - Publishing message
+18:41:46.778 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 14323 ms. DEADLINE_EXCEEDED
+18:41:47.457 [main] INFO  org.acme.App - Publishing message
+18:41:49.868 [pool-2-thread-57] WARN  org.acme.App - Publish failed after 14413 ms. DEADLINE_EXCEEDED
+18:41:50.457 [main] INFO  org.acme.App - Publishing message
+18:41:52.926 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 14470 ms. DEADLINE_EXCEEDED
+18:41:53.458 [main] INFO  org.acme.App - Publishing message
+18:41:55.819 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 14363 ms. DEADLINE_EXCEEDED
+18:41:56.458 [main] INFO  org.acme.App - Publishing message
+18:41:58.868 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 14411 ms. DEADLINE_EXCEEDED
+18:41:59.458 [main] INFO  org.acme.App - Publishing message
+18:42:01.883 [pool-2-thread-29] WARN  org.acme.App - Publish failed after 14426 ms. DEADLINE_EXCEEDED
+18:42:02.459 [main] INFO  org.acme.App - Publishing message
+18:42:04.848 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 14391 ms. DEADLINE_EXCEEDED
+18:42:05.459 [main] INFO  org.acme.App - Publishing message
+18:42:07.817 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 14358 ms. DEADLINE_EXCEEDED
+18:42:08.460 [main] INFO  org.acme.App - Publishing message
+18:42:10.798 [pool-2-thread-23] WARN  org.acme.App - Publish failed after 14340 ms. DEADLINE_EXCEEDED
+18:42:11.460 [main] INFO  org.acme.App - Publishing message
+18:42:13.812 [pool-2-thread-15] WARN  org.acme.App - Publish failed after 14353 ms. DEADLINE_EXCEEDED
+18:42:14.461 [main] INFO  org.acme.App - Publishing message
+18:42:16.839 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14379 ms. DEADLINE_EXCEEDED
+18:42:17.461 [main] INFO  org.acme.App - Publishing message
+18:42:19.850 [pool-2-thread-35] WARN  org.acme.App - Publish failed after 14390 ms. DEADLINE_EXCEEDED
+18:42:20.462 [main] INFO  org.acme.App - Publishing message
+18:42:22.851 [pool-2-thread-58] WARN  org.acme.App - Publish failed after 14391 ms. DEADLINE_EXCEEDED
+18:42:23.462 [main] INFO  org.acme.App - Publishing message
+18:42:25.817 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 14356 ms. DEADLINE_EXCEEDED
+18:42:26.463 [main] INFO  org.acme.App - Publishing message
+18:42:28.850 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 14389 ms. DEADLINE_EXCEEDED
+18:42:29.463 [main] INFO  org.acme.App - Publishing message
+18:42:31.842 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 14380 ms. DEADLINE_EXCEEDED
+18:42:32.464 [main] INFO  org.acme.App - Publishing message
+18:42:34.764 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 14302 ms. DEADLINE_EXCEEDED
+18:42:35.464 [main] INFO  org.acme.App - Publishing message
+18:42:36.192 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 12728 ms. UNAVAILABLE: HTTP/2 error code: NO_ERROR
+Received Goaway
+session_timed_out
+18:42:38.465 [main] INFO  org.acme.App - Publishing message
+18:42:40.596 [pool-2-thread-15] INFO  org.acme.App - Published in 8131 ms! [126454056100434]
+18:42:40.856 [pool-2-thread-22] WARN  org.acme.App - Publish failed after 14392 ms. DEADLINE_EXCEEDED
+18:42:41.465 [main] INFO  org.acme.App - Publishing message
+18:42:43.807 [pool-2-thread-54] WARN  org.acme.App - Publish failed after 14343 ms. DEADLINE_EXCEEDED
+18:42:44.466 [main] INFO  org.acme.App - Publishing message
+18:42:45.074 [pool-2-thread-39] INFO  org.acme.App - Published in 9609 ms! [126454703180216]
+18:42:47.466 [main] INFO  org.acme.App - Publishing message
+18:42:47.809 [pool-2-thread-25] INFO  org.acme.App - Published in 6344 ms! [126454259018588]
+18:42:50.467 [main] INFO  org.acme.App - Publishing message
+18:42:50.958 [pool-2-thread-10] INFO  org.acme.App - Published in 3491 ms! [126454259020869]
+18:42:52.795 [pool-2-thread-33] WARN  org.acme.App - Publish failed after 14330 ms. DEADLINE_EXCEEDED
+18:42:53.467 [main] INFO  org.acme.App - Publishing message
+18:42:56.468 [main] INFO  org.acme.App - Publishing message
+18:42:58.826 [pool-2-thread-23] WARN  org.acme.App - Publish failed after 14360 ms. DEADLINE_EXCEEDED
+18:42:59.468 [main] INFO  org.acme.App - Publishing message
+18:43:02.469 [main] INFO  org.acme.App - Publishing message
+18:43:04.773 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14306 ms. DEADLINE_EXCEEDED
+18:43:05.469 [main] INFO  org.acme.App - Publishing message
+18:43:07.868 [pool-2-thread-55] WARN  org.acme.App - Publish failed after 14400 ms. DEADLINE_EXCEEDED
+18:43:08.470 [main] INFO  org.acme.App - Publishing message
+18:43:10.915 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 14447 ms. DEADLINE_EXCEEDED
+18:43:11.470 [main] INFO  org.acme.App - Publishing message
+18:43:13.725 [pool-2-thread-6] WARN  org.acme.App - Publish failed after 14256 ms. DEADLINE_EXCEEDED
+18:43:14.470 [main] INFO  org.acme.App - Publishing message
+18:43:16.885 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 14416 ms. DEADLINE_EXCEEDED
+18:43:17.471 [main] INFO  org.acme.App - Publishing message
+18:43:19.875 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 14405 ms. DEADLINE_EXCEEDED
+18:43:20.471 [main] INFO  org.acme.App - Publishing message
+18:43:22.839 [pool-2-thread-8] WARN  org.acme.App - Publish failed after 14369 ms. DEADLINE_EXCEEDED
+18:43:23.472 [main] INFO  org.acme.App - Publishing message
+18:43:25.827 [pool-2-thread-20] WARN  org.acme.App - Publish failed after 14356 ms. DEADLINE_EXCEEDED
+18:43:26.472 [main] INFO  org.acme.App - Publishing message
+18:43:28.920 [pool-2-thread-12] WARN  org.acme.App - Publish failed after 14448 ms. DEADLINE_EXCEEDED
+18:43:29.473 [main] INFO  org.acme.App - Publishing message
+18:43:31.755 [pool-2-thread-11] WARN  org.acme.App - Publish failed after 14283 ms. DEADLINE_EXCEEDED
+18:43:32.473 [main] INFO  org.acme.App - Publishing message
+18:43:34.780 [pool-2-thread-16] WARN  org.acme.App - Publish failed after 14308 ms. DEADLINE_EXCEEDED
+18:43:35.474 [main] INFO  org.acme.App - Publishing message
+18:43:37.857 [pool-2-thread-58] WARN  org.acme.App - Publish failed after 14384 ms. DEADLINE_EXCEEDED
+18:43:38.474 [main] INFO  org.acme.App - Publishing message
+18:43:40.856 [pool-2-thread-49] WARN  org.acme.App - Publish failed after 14383 ms. DEADLINE_EXCEEDED
+18:43:41.475 [main] INFO  org.acme.App - Publishing message
+18:43:43.898 [pool-2-thread-28] WARN  org.acme.App - Publish failed after 14425 ms. DEADLINE_EXCEEDED
+18:43:44.475 [main] INFO  org.acme.App - Publishing message
+18:43:46.848 [pool-2-thread-53] WARN  org.acme.App - Publish failed after 14374 ms. DEADLINE_EXCEEDED
+18:43:47.476 [main] INFO  org.acme.App - Publishing message
+18:43:49.774 [pool-2-thread-38] WARN  org.acme.App - Publish failed after 14299 ms. DEADLINE_EXCEEDED
+18:43:50.476 [main] INFO  org.acme.App - Publishing message
+18:43:52.915 [pool-2-thread-53] WARN  org.acme.App - Publish failed after 14440 ms. DEADLINE_EXCEEDED
+18:43:53.476 [main] INFO  org.acme.App - Publishing message
+18:43:55.853 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 14378 ms. DEADLINE_EXCEEDED
+18:43:56.477 [main] INFO  org.acme.App - Publishing message
+18:43:58.733 [pool-2-thread-48] WARN  org.acme.App - Publish failed after 14258 ms. DEADLINE_EXCEEDED
+18:43:59.477 [main] INFO  org.acme.App - Publishing message
+18:43:59.801 [pool-2-thread-10] WARN  org.acme.App - Publish failed after 12324 ms. DEADLINE_EXCEEDED
+18:44:02.478 [main] INFO  org.acme.App - Publishing message
+18:44:04.807 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 14331 ms. DEADLINE_EXCEEDED
+18:44:05.478 [main] INFO  org.acme.App - Publishing message
+18:44:07.892 [pool-2-thread-4] WARN  org.acme.App - Publish failed after 14414 ms. DEADLINE_EXCEEDED
+18:44:08.479 [main] INFO  org.acme.App - Publishing message
+18:44:10.796 [pool-2-thread-28] WARN  org.acme.App - Publish failed after 14319 ms. DEADLINE_EXCEEDED
+18:44:11.479 [main] INFO  org.acme.App - Publishing message
+18:44:13.778 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 14299 ms. DEADLINE_EXCEEDED
+18:44:14.480 [main] INFO  org.acme.App - Publishing message
+18:44:16.771 [pool-2-thread-34] WARN  org.acme.App - Publish failed after 14293 ms. DEADLINE_EXCEEDED
+18:44:17.480 [main] INFO  org.acme.App - Publishing message
+18:44:19.854 [pool-2-thread-19] WARN  org.acme.App - Publish failed after 14375 ms. DEADLINE_EXCEEDED
+18:44:20.481 [main] INFO  org.acme.App - Publishing message
+18:44:22.895 [pool-2-thread-44] WARN  org.acme.App - Publish failed after 14416 ms. DEADLINE_EXCEEDED
+18:44:23.481 [main] INFO  org.acme.App - Publishing message
+18:44:25.812 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14332 ms. DEADLINE_EXCEEDED
+18:44:26.482 [main] INFO  org.acme.App - Publishing message
+18:44:28.850 [pool-2-thread-6] WARN  org.acme.App - Publish failed after 14370 ms. DEADLINE_EXCEEDED
+18:44:29.482 [main] INFO  org.acme.App - Publishing message
+18:44:31.862 [pool-2-thread-58] WARN  org.acme.App - Publish failed after 14381 ms. DEADLINE_EXCEEDED
+18:44:32.483 [main] INFO  org.acme.App - Publishing message
+18:44:34.795 [pool-2-thread-4] WARN  org.acme.App - Publish succeeded. Timeout period breached with duration of 14314 ms
+18:44:35.483 [main] INFO  org.acme.App - Publishing message
+18:44:36.010 [pool-2-thread-45] INFO  org.acme.App - Published in 6527 ms! [126443082441125]
+18:44:37.715 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 14233 ms. DEADLINE_EXCEEDED
+18:44:38.484 [main] INFO  org.acme.App - Publishing message
+18:44:40.901 [pool-2-thread-10] WARN  org.acme.App - Publish failed after 14419 ms. DEADLINE_EXCEEDED
+18:44:41.484 [main] INFO  org.acme.App - Publishing message
+18:44:44.485 [main] INFO  org.acme.App - Publishing message
+18:44:46.772 [pool-2-thread-1] WARN  org.acme.App - Publish failed after 14289 ms. DEADLINE_EXCEEDED
+18:44:47.485 [main] INFO  org.acme.App - Publishing message
+18:44:49.935 [pool-2-thread-34] WARN  org.acme.App - Publish failed after 14451 ms. DEADLINE_EXCEEDED
+18:44:50.486 [main] INFO  org.acme.App - Publishing message
+18:44:52.796 [pool-2-thread-20] WARN  org.acme.App - Publish failed after 14312 ms. DEADLINE_EXCEEDED
+18:44:53.486 [main] INFO  org.acme.App - Publishing message
+18:44:55.809 [pool-2-thread-50] WARN  org.acme.App - Publish failed after 14324 ms. DEADLINE_EXCEEDED
+18:44:56.487 [main] INFO  org.acme.App - Publishing message
+18:44:58.843 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14358 ms. DEADLINE_EXCEEDED
+18:44:59.487 [main] INFO  org.acme.App - Publishing message
+18:45:01.867 [pool-2-thread-50] WARN  org.acme.App - Publish failed after 14381 ms. DEADLINE_EXCEEDED
+18:45:02.487 [main] INFO  org.acme.App - Publishing message
+18:45:04.977 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14490 ms. DEADLINE_EXCEEDED
+18:45:05.488 [main] INFO  org.acme.App - Publishing message
+18:45:07.782 [pool-2-thread-50] WARN  org.acme.App - Publish failed after 14296 ms. DEADLINE_EXCEEDED
+18:45:08.488 [main] INFO  org.acme.App - Publishing message
+18:45:10.905 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14417 ms. DEADLINE_EXCEEDED
+18:45:11.489 [main] INFO  org.acme.App - Publishing message
+18:45:13.788 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 14300 ms. DEADLINE_EXCEEDED
+18:45:14.489 [main] INFO  org.acme.App - Publishing message
+18:45:16.846 [pool-2-thread-46] WARN  org.acme.App - Publish failed after 14358 ms. DEADLINE_EXCEEDED
+18:45:17.490 [main] INFO  org.acme.App - Publishing message
+18:45:19.844 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 14355 ms. DEADLINE_EXCEEDED
+18:45:20.490 [main] INFO  org.acme.App - Publishing message
+18:45:22.887 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 14398 ms. DEADLINE_EXCEEDED
+18:45:23.491 [main] INFO  org.acme.App - Publishing message
+18:45:25.868 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 14379 ms. DEADLINE_EXCEEDED
+18:45:26.491 [main] INFO  org.acme.App - Publishing message
+18:45:28.933 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 14442 ms. DEADLINE_EXCEEDED
+18:45:29.492 [main] INFO  org.acme.App - Publishing message
+18:45:31.847 [pool-2-thread-31] WARN  org.acme.App - Publish failed after 14356 ms. DEADLINE_EXCEEDED
+18:45:32.492 [main] INFO  org.acme.App - Publishing message
+18:45:34.801 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 14309 ms. DEADLINE_EXCEEDED
+18:45:35.493 [main] INFO  org.acme.App - Publishing message
+18:45:37.945 [pool-2-thread-31] WARN  org.acme.App - Publish failed after 14453 ms. DEADLINE_EXCEEDED
+18:45:38.493 [main] INFO  org.acme.App - Publishing message
+18:45:40.877 [pool-2-thread-12] WARN  org.acme.App - Publish failed after 14385 ms. DEADLINE_EXCEEDED
+18:45:41.494 [main] INFO  org.acme.App - Publishing message
+18:45:43.882 [pool-2-thread-55] WARN  org.acme.App - Publish failed after 14389 ms. DEADLINE_EXCEEDED
+18:45:44.494 [main] INFO  org.acme.App - Publishing message
+18:45:46.764 [pool-2-thread-40] WARN  org.acme.App - Publish failed after 14271 ms. DEADLINE_EXCEEDED
+18:45:47.495 [main] INFO  org.acme.App - Publishing message
+18:45:49.859 [pool-2-thread-9] WARN  org.acme.App - Publish failed after 14365 ms. DEADLINE_EXCEEDED
+18:45:50.495 [main] INFO  org.acme.App - Publishing message
+18:45:52.884 [pool-2-thread-29] WARN  org.acme.App - Publish failed after 14390 ms. DEADLINE_EXCEEDED
+18:45:53.495 [main] INFO  org.acme.App - Publishing message
+18:45:55.805 [pool-2-thread-27] WARN  org.acme.App - Publish failed after 14311 ms. DEADLINE_EXCEEDED
+18:45:56.496 [main] INFO  org.acme.App - Publishing message
+18:45:58.902 [pool-2-thread-45] WARN  org.acme.App - Publish failed after 14407 ms. DEADLINE_EXCEEDED
+18:45:59.496 [main] INFO  org.acme.App - Publishing message
+18:46:01.754 [pool-2-thread-23] WARN  org.acme.App - Publish failed after 14258 ms. DEADLINE_EXCEEDED
+18:46:02.497 [main] INFO  org.acme.App - Publishing message
+18:46:04.871 [pool-2-thread-44] WARN  org.acme.App - Publish failed after 14375 ms. DEADLINE_EXCEEDED
+18:46:05.497 [main] INFO  org.acme.App - Publishing message
+18:46:07.899 [pool-2-thread-21] WARN  org.acme.App - Publish failed after 14402 ms. DEADLINE_EXCEEDED
+18:46:08.498 [main] INFO  org.acme.App - Publishing message
+18:46:10.826 [pool-2-thread-4] WARN  org.acme.App - Publish failed after 14329 ms. DEADLINE_EXCEEDED
+18:46:11.498 [main] INFO  org.acme.App - Publishing message
+18:46:13.810 [pool-2-thread-46] WARN  org.acme.App - Publish failed after 14313 ms. DEADLINE_EXCEEDED
+18:46:14.499 [main] INFO  org.acme.App - Publishing message
+18:46:16.764 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 14267 ms. DEADLINE_EXCEEDED
+18:46:17.499 [main] INFO  org.acme.App - Publishing message
+18:46:19.837 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 14338 ms. DEADLINE_EXCEEDED
+18:46:20.500 [main] INFO  org.acme.App - Publishing message
+18:46:22.905 [pool-2-thread-39] WARN  org.acme.App - Publish failed after 14406 ms. DEADLINE_EXCEEDED
+18:46:23.500 [main] INFO  org.acme.App - Publishing message
+18:46:25.946 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 14446 ms. DEADLINE_EXCEEDED
+18:46:26.501 [main] INFO  org.acme.App - Publishing message
+18:46:28.851 [pool-2-thread-49] WARN  org.acme.App - Publish failed after 14352 ms. DEADLINE_EXCEEDED
+18:46:29.501 [main] INFO  org.acme.App - Publishing message
+18:46:31.802 [pool-2-thread-13] WARN  org.acme.App - Publish failed after 14301 ms. DEADLINE_EXCEEDED
+18:46:32.502 [main] INFO  org.acme.App - Publishing message
+18:46:34.927 [pool-2-thread-49] WARN  org.acme.App - Publish failed after 14427 ms. DEADLINE_EXCEEDED
+18:46:35.502 [main] INFO  org.acme.App - Publishing message
+18:46:37.771 [pool-2-thread-60] WARN  org.acme.App - Publish failed after 14269 ms. DEADLINE_EXCEEDED
+18:46:38.503 [main] INFO  org.acme.App - Publishing message
+18:46:40.768 [pool-2-thread-31] WARN  org.acme.App - Publish failed after 14266 ms. DEADLINE_EXCEEDED
+18:46:41.503 [main] INFO  org.acme.App - Publishing message
+18:46:43.910 [pool-2-thread-25] WARN  org.acme.App - Publish failed after 14408 ms. DEADLINE_EXCEEDED
+18:46:44.503 [main] INFO  org.acme.App - Publishing message
+18:46:46.947 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 14444 ms. DEADLINE_EXCEEDED
+18:46:47.504 [main] INFO  org.acme.App - Publishing message
+18:46:49.833 [pool-2-thread-12] WARN  org.acme.App - Publish failed after 14330 ms. DEADLINE_EXCEEDED
+18:46:50.504 [main] INFO  org.acme.App - Publishing message
+18:46:52.931 [pool-2-thread-10] WARN  org.acme.App - Publish failed after 14427 ms. DEADLINE_EXCEEDED
+18:46:53.505 [main] INFO  org.acme.App - Publishing message
+18:46:55.962 [pool-2-thread-22] WARN  org.acme.App - Publish failed after 14458 ms. DEADLINE_EXCEEDED
+18:46:56.505 [main] INFO  org.acme.App - Publishing message
+18:46:58.489 [pool-2-thread-31] INFO  org.acme.App - Published in 4983 ms! [126449205150303]
+18:46:58.906 [pool-2-thread-9] WARN  org.acme.App - Publish failed after 14401 ms. DEADLINE_EXCEEDED
+18:46:59.506 [main] INFO  org.acme.App - Publishing message
+18:47:01.947 [pool-2-thread-22] WARN  org.acme.App - Publish failed after 14443 ms. DEADLINE_EXCEEDED
+18:47:02.506 [main] INFO  org.acme.App - Publishing message
+18:47:04.746 [pool-2-thread-19] WARN  org.acme.App - Publish failed after 14241 ms. DEADLINE_EXCEEDED
+18:47:05.507 [main] INFO  org.acme.App - Publishing message
+18:47:08.507 [main] INFO  org.acme.App - Publishing message
+18:47:10.843 [pool-2-thread-41] WARN  org.acme.App - Publish failed after 14337 ms. DEADLINE_EXCEEDED
+18:47:11.508 [main] INFO  org.acme.App - Publishing message
+18:47:13.884 [pool-2-thread-4] WARN  org.acme.App - Publish failed after 14377 ms. DEADLINE_EXCEEDED
+18:47:14.508 [main] INFO  org.acme.App - Publishing message
+18:47:16.857 [pool-2-thread-57] WARN  org.acme.App - Publish failed after 14350 ms. DEADLINE_EXCEEDED
+18:47:17.509 [main] INFO  org.acme.App - Publishing message
+18:47:19.831 [pool-2-thread-35] WARN  org.acme.App - Publish failed after 14323 ms. DEADLINE_EXCEEDED
+18:47:20.509 [main] INFO  org.acme.App - Publishing message
+18:47:22.785 [pool-2-thread-47] WARN  org.acme.App - Publish failed after 14276 ms. DEADLINE_EXCEEDED
+18:47:23.510 [main] INFO  org.acme.App - Publishing message
+18:47:24.272 [pool-2-thread-51] WARN  org.acme.App - Publish failed after 12763 ms. DEADLINE_EXCEEDED
+18:47:26.510 [main] INFO  org.acme.App - Publishing message
+18:47:28.921 [pool-2-thread-22] WARN  org.acme.App - Publish failed after 14412 ms. DEADLINE_EXCEEDED
+18:47:29.511 [main] INFO  org.acme.App - Publishing message
+18:47:31.880 [pool-2-thread-30] WARN  org.acme.App - Publish failed after 14370 ms. DEADLINE_EXCEEDED
+18:47:32.511 [main] INFO  org.acme.App - Publishing message
+18:47:34.801 [pool-2-thread-3] WARN  org.acme.App - Publish failed after 14291 ms. DEADLINE_EXCEEDED
+18:47:35.512 [main] INFO  org.acme.App - Publishing message
+18:47:37.858 [pool-2-thread-2] WARN  org.acme.App - Publish failed after 14347 ms. DEADLINE_EXCEEDED
+18:47:38.512 [main] INFO  org.acme.App - Publishing message
+18:47:40.906 [pool-2-thread-52] WARN  org.acme.App - Publish failed after 14395 ms. DEADLINE_EXCEEDED
+18:47:41.513 [main] INFO  org.acme.App - Publishing message
