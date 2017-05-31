@@ -1,10 +1,6 @@
 package org.acme;
 
-import java.nio.charset.Charset;
-import java.util.concurrent.TimeUnit;
-
-import org.threeten.bp.Duration;
-
+import com.google.auth.oauth2.ServiceAccountCredentials;
 import com.google.api.core.ApiFuture;
 import com.google.api.core.ApiFutureCallback;
 import com.google.api.core.ApiFutures;
@@ -15,6 +11,12 @@ import com.google.common.base.Stopwatch;
 import com.google.protobuf.ByteString;
 import com.google.pubsub.v1.PubsubMessage;
 import com.google.pubsub.v1.TopicName;
+
+import java.io.InputStream;
+import java.nio.charset.Charset;
+import java.util.concurrent.TimeUnit;
+
+import org.threeten.bp.Duration;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -51,13 +53,8 @@ public class App
 
     public static void main(String[] args) throws Exception
     {
-        if (args.length != 2) {
-            System.out.println("Usage: java -jar pubsubgrpctest <projectName> <topic>");
-            return;
-        }
-
-        String project = args[0];
-        String topic = args[1];
+        String project = "tcoffee-test";
+        String topic = "apiTest";
 
         TopicName topicName = TopicName.create(project, topic);
 
@@ -71,7 +68,11 @@ public class App
                 .setTotalTimeout(Duration.ofMillis(TOTAL_TIMEOUT))
                 .build();
 
+        ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
+        InputStream input = classLoader.getResourceAsStream("tcoffee-test-a021a69bda91.json");
+
         Publisher publisher = Publisher.defaultBuilder(topicName)
+            // .setCredentials(ServiceAccountCredentials.fromStream(input))
                 .setRetrySettings(retrySettings)
                 .build();
 
